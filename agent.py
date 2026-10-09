@@ -25,9 +25,24 @@ agent = create_agent(
     system_prompt="You area a helpful assistant. Use tools when needed.",
 )
 
-result = agent.invoke(
-    {"messages": [{"role": "user", "content": "What is 23.5 times 48? Also, what time is it?"}]}
-)
+# the conversation gets stored here so the ai agent can remember
+messages = []
 
-for message in result["messages"]:
-    message.pretty_print()
+print("Chat with your agent! Type 'exit' to quit.\n")
+
+while True:
+    user_input = input("You: ")
+
+    if user_input.lower() == "exit":
+        break
+
+    # this add the user's message to the history
+    messages.append({"role": "user", "content": user_input})
+
+    # sends the whole history to the ai agent
+    result = agent.invoke({"messages": messages})
+
+    # save the updated history
+    messages = result["messages"]
+
+    print("Agent:", messages[-1].content, "\n")
