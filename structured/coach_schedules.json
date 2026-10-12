@@ -1,0 +1,5402 @@
+[
+  {
+    "id": "csch_diego_fernandez_20261005",
+    "coach_id": "cch_diego_fernandez",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-05",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_diego_fernandez_20261006",
+    "coach_id": "cch_diego_fernandez",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-06",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_diego_fernandez_20261007",
+    "coach_id": "cch_diego_fernandez",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-07",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_diego_fernandez_20261008",
+    "coach_id": "cch_diego_fernandez",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-08",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_diego_fernandez_20261010",
+    "coach_id": "cch_diego_fernandez",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-10",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_diego_fernandez_20261011",
+    "coach_id": "cch_diego_fernandez",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-11",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_diego_fernandez_20261012",
+    "coach_id": "cch_diego_fernandez",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-12",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_diego_fernandez_20261013",
+    "coach_id": "cch_diego_fernandez",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-13",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_diego_fernandez_20261014",
+    "coach_id": "cch_diego_fernandez",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-14",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_diego_fernandez_20261015",
+    "coach_id": "cch_diego_fernandez",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-15",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_diego_fernandez_20261016",
+    "coach_id": "cch_diego_fernandez",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-16",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_diego_fernandez_20261017",
+    "coach_id": "cch_diego_fernandez",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-17",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_diego_fernandez_20261018",
+    "coach_id": "cch_diego_fernandez",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-18",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_layla_nasser_20261005",
+    "coach_id": "cch_layla_nasser",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-05",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_layla_nasser_20261006",
+    "coach_id": "cch_layla_nasser",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-06",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_layla_nasser_20261007",
+    "coach_id": "cch_layla_nasser",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-07",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_layla_nasser_20261008",
+    "coach_id": "cch_layla_nasser",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-08",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_layla_nasser_20261009",
+    "coach_id": "cch_layla_nasser",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-09",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_layla_nasser_20261010",
+    "coach_id": "cch_layla_nasser",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-10",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_layla_nasser_20261011",
+    "coach_id": "cch_layla_nasser",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-11",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_layla_nasser_20261012",
+    "coach_id": "cch_layla_nasser",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-12",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_layla_nasser_20261013",
+    "coach_id": "cch_layla_nasser",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-13",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_layla_nasser_20261014",
+    "coach_id": "cch_layla_nasser",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-14",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_layla_nasser_20261015",
+    "coach_id": "cch_layla_nasser",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-15",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_layla_nasser_20261016",
+    "coach_id": "cch_layla_nasser",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-16",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_layla_nasser_20261018",
+    "coach_id": "cch_layla_nasser",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-18",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_layla_nasser_20261019",
+    "coach_id": "cch_layla_nasser",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-19",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_tomas_aguirre_20261005",
+    "coach_id": "cch_tomas_aguirre",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-05",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_tomas_aguirre_20261006",
+    "coach_id": "cch_tomas_aguirre",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-06",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_tomas_aguirre_20261007",
+    "coach_id": "cch_tomas_aguirre",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-07",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_tomas_aguirre_20261008",
+    "coach_id": "cch_tomas_aguirre",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-08",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_tomas_aguirre_20261009",
+    "coach_id": "cch_tomas_aguirre",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-09",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_tomas_aguirre_20261011",
+    "coach_id": "cch_tomas_aguirre",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-11",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_tomas_aguirre_20261012",
+    "coach_id": "cch_tomas_aguirre",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-12",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_tomas_aguirre_20261013",
+    "coach_id": "cch_tomas_aguirre",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-13",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_tomas_aguirre_20261014",
+    "coach_id": "cch_tomas_aguirre",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-14",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_tomas_aguirre_20261015",
+    "coach_id": "cch_tomas_aguirre",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-15",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_tomas_aguirre_20261016",
+    "coach_id": "cch_tomas_aguirre",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-16",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_tomas_aguirre_20261017",
+    "coach_id": "cch_tomas_aguirre",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-17",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_tomas_aguirre_20261019",
+    "coach_id": "cch_tomas_aguirre",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-19",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_omar_farouk_20261005",
+    "coach_id": "cch_omar_farouk",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-05",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_omar_farouk_20261006",
+    "coach_id": "cch_omar_farouk",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-06",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_omar_farouk_20261007",
+    "coach_id": "cch_omar_farouk",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-07",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_omar_farouk_20261008",
+    "coach_id": "cch_omar_farouk",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-08",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_omar_farouk_20261009",
+    "coach_id": "cch_omar_farouk",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-09",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_omar_farouk_20261010",
+    "coach_id": "cch_omar_farouk",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-10",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_omar_farouk_20261011",
+    "coach_id": "cch_omar_farouk",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-11",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_omar_farouk_20261012",
+    "coach_id": "cch_omar_farouk",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-12",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_omar_farouk_20261013",
+    "coach_id": "cch_omar_farouk",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-13",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_omar_farouk_20261014",
+    "coach_id": "cch_omar_farouk",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-14",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_omar_farouk_20261016",
+    "coach_id": "cch_omar_farouk",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-16",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_omar_farouk_20261018",
+    "coach_id": "cch_omar_farouk",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-18",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_omar_farouk_20261019",
+    "coach_id": "cch_omar_farouk",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-19",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_sofia_marchetti_20261005",
+    "coach_id": "cch_sofia_marchetti",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-05",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_sofia_marchetti_20261007",
+    "coach_id": "cch_sofia_marchetti",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-07",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_sofia_marchetti_20261008",
+    "coach_id": "cch_sofia_marchetti",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-08",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_sofia_marchetti_20261009",
+    "coach_id": "cch_sofia_marchetti",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-09",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_sofia_marchetti_20261010",
+    "coach_id": "cch_sofia_marchetti",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-10",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_sofia_marchetti_20261011",
+    "coach_id": "cch_sofia_marchetti",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-11",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_sofia_marchetti_20261012",
+    "coach_id": "cch_sofia_marchetti",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-12",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_sofia_marchetti_20261013",
+    "coach_id": "cch_sofia_marchetti",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-13",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_sofia_marchetti_20261014",
+    "coach_id": "cch_sofia_marchetti",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-14",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_sofia_marchetti_20261015",
+    "coach_id": "cch_sofia_marchetti",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-15",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_sofia_marchetti_20261016",
+    "coach_id": "cch_sofia_marchetti",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-16",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_sofia_marchetti_20261017",
+    "coach_id": "cch_sofia_marchetti",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-17",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_sofia_marchetti_20261018",
+    "coach_id": "cch_sofia_marchetti",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-18",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_rashid_al_blooshi_20261005",
+    "coach_id": "cch_rashid_al_blooshi",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-05",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_rashid_al_blooshi_20261006",
+    "coach_id": "cch_rashid_al_blooshi",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-06",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_rashid_al_blooshi_20261007",
+    "coach_id": "cch_rashid_al_blooshi",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-07",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_rashid_al_blooshi_20261008",
+    "coach_id": "cch_rashid_al_blooshi",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-08",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_rashid_al_blooshi_20261009",
+    "coach_id": "cch_rashid_al_blooshi",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-09",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_rashid_al_blooshi_20261010",
+    "coach_id": "cch_rashid_al_blooshi",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-10",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_rashid_al_blooshi_20261012",
+    "coach_id": "cch_rashid_al_blooshi",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-12",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_rashid_al_blooshi_20261013",
+    "coach_id": "cch_rashid_al_blooshi",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-13",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_rashid_al_blooshi_20261014",
+    "coach_id": "cch_rashid_al_blooshi",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-14",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_rashid_al_blooshi_20261015",
+    "coach_id": "cch_rashid_al_blooshi",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-15",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_rashid_al_blooshi_20261016",
+    "coach_id": "cch_rashid_al_blooshi",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-16",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_rashid_al_blooshi_20261017",
+    "coach_id": "cch_rashid_al_blooshi",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-17",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_rashid_al_blooshi_20261018",
+    "coach_id": "cch_rashid_al_blooshi",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-18",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_rashid_al_blooshi_20261019",
+    "coach_id": "cch_rashid_al_blooshi",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-19",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_nicolas_prado_20261005",
+    "coach_id": "cch_nicolas_prado",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-05",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_nicolas_prado_20261006",
+    "coach_id": "cch_nicolas_prado",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-06",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_nicolas_prado_20261007",
+    "coach_id": "cch_nicolas_prado",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-07",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_nicolas_prado_20261008",
+    "coach_id": "cch_nicolas_prado",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-08",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_nicolas_prado_20261009",
+    "coach_id": "cch_nicolas_prado",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-09",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_nicolas_prado_20261011",
+    "coach_id": "cch_nicolas_prado",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-11",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_nicolas_prado_20261012",
+    "coach_id": "cch_nicolas_prado",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-12",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_nicolas_prado_20261013",
+    "coach_id": "cch_nicolas_prado",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-13",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_nicolas_prado_20261014",
+    "coach_id": "cch_nicolas_prado",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-14",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_nicolas_prado_20261016",
+    "coach_id": "cch_nicolas_prado",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-16",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_nicolas_prado_20261017",
+    "coach_id": "cch_nicolas_prado",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-17",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_nicolas_prado_20261018",
+    "coach_id": "cch_nicolas_prado",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-18",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_nicolas_prado_20261019",
+    "coach_id": "cch_nicolas_prado",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-19",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_hana_kimura_20261005",
+    "coach_id": "cch_hana_kimura",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-05",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hana_kimura_20261006",
+    "coach_id": "cch_hana_kimura",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-06",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hana_kimura_20261007",
+    "coach_id": "cch_hana_kimura",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-07",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hana_kimura_20261008",
+    "coach_id": "cch_hana_kimura",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-08",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hana_kimura_20261009",
+    "coach_id": "cch_hana_kimura",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-09",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hana_kimura_20261010",
+    "coach_id": "cch_hana_kimura",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-10",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_hana_kimura_20261011",
+    "coach_id": "cch_hana_kimura",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-11",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hana_kimura_20261012",
+    "coach_id": "cch_hana_kimura",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-12",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hana_kimura_20261014",
+    "coach_id": "cch_hana_kimura",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-14",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hana_kimura_20261015",
+    "coach_id": "cch_hana_kimura",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-15",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hana_kimura_20261017",
+    "coach_id": "cch_hana_kimura",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-17",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hana_kimura_20261018",
+    "coach_id": "cch_hana_kimura",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-18",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hana_kimura_20261019",
+    "coach_id": "cch_hana_kimura",
+    "branch_id": "br_alquoz",
+    "date": "2026-10-19",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_miguel_santana_20261005",
+    "coach_id": "cch_miguel_santana",
+    "branch_id": "br_jvc",
+    "date": "2026-10-05",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_miguel_santana_20261006",
+    "coach_id": "cch_miguel_santana",
+    "branch_id": "br_jvc",
+    "date": "2026-10-06",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_miguel_santana_20261007",
+    "coach_id": "cch_miguel_santana",
+    "branch_id": "br_jvc",
+    "date": "2026-10-07",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_miguel_santana_20261008",
+    "coach_id": "cch_miguel_santana",
+    "branch_id": "br_jvc",
+    "date": "2026-10-08",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_miguel_santana_20261009",
+    "coach_id": "cch_miguel_santana",
+    "branch_id": "br_jvc",
+    "date": "2026-10-09",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_miguel_santana_20261010",
+    "coach_id": "cch_miguel_santana",
+    "branch_id": "br_jvc",
+    "date": "2026-10-10",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_miguel_santana_20261011",
+    "coach_id": "cch_miguel_santana",
+    "branch_id": "br_jvc",
+    "date": "2026-10-11",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_miguel_santana_20261012",
+    "coach_id": "cch_miguel_santana",
+    "branch_id": "br_jvc",
+    "date": "2026-10-12",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_miguel_santana_20261013",
+    "coach_id": "cch_miguel_santana",
+    "branch_id": "br_jvc",
+    "date": "2026-10-13",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_miguel_santana_20261014",
+    "coach_id": "cch_miguel_santana",
+    "branch_id": "br_jvc",
+    "date": "2026-10-14",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_miguel_santana_20261015",
+    "coach_id": "cch_miguel_santana",
+    "branch_id": "br_jvc",
+    "date": "2026-10-15",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_miguel_santana_20261018",
+    "coach_id": "cch_miguel_santana",
+    "branch_id": "br_jvc",
+    "date": "2026-10-18",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_miguel_santana_20261019",
+    "coach_id": "cch_miguel_santana",
+    "branch_id": "br_jvc",
+    "date": "2026-10-19",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_fatima_al_zaabi_20261005",
+    "coach_id": "cch_fatima_al_zaabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-05",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_fatima_al_zaabi_20261006",
+    "coach_id": "cch_fatima_al_zaabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-06",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_fatima_al_zaabi_20261007",
+    "coach_id": "cch_fatima_al_zaabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-07",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_fatima_al_zaabi_20261008",
+    "coach_id": "cch_fatima_al_zaabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-08",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_fatima_al_zaabi_20261009",
+    "coach_id": "cch_fatima_al_zaabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-09",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_fatima_al_zaabi_20261010",
+    "coach_id": "cch_fatima_al_zaabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-10",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_fatima_al_zaabi_20261011",
+    "coach_id": "cch_fatima_al_zaabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-11",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_fatima_al_zaabi_20261012",
+    "coach_id": "cch_fatima_al_zaabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-12",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_fatima_al_zaabi_20261013",
+    "coach_id": "cch_fatima_al_zaabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-13",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_fatima_al_zaabi_20261014",
+    "coach_id": "cch_fatima_al_zaabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-14",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_fatima_al_zaabi_20261015",
+    "coach_id": "cch_fatima_al_zaabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-15",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_fatima_al_zaabi_20261016",
+    "coach_id": "cch_fatima_al_zaabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-16",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_fatima_al_zaabi_20261018",
+    "coach_id": "cch_fatima_al_zaabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-18",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_fatima_al_zaabi_20261019",
+    "coach_id": "cch_fatima_al_zaabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-19",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_andres_rivas_20261005",
+    "coach_id": "cch_andres_rivas",
+    "branch_id": "br_jvc",
+    "date": "2026-10-05",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_andres_rivas_20261006",
+    "coach_id": "cch_andres_rivas",
+    "branch_id": "br_jvc",
+    "date": "2026-10-06",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_andres_rivas_20261008",
+    "coach_id": "cch_andres_rivas",
+    "branch_id": "br_jvc",
+    "date": "2026-10-08",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_andres_rivas_20261009",
+    "coach_id": "cch_andres_rivas",
+    "branch_id": "br_jvc",
+    "date": "2026-10-09",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_andres_rivas_20261010",
+    "coach_id": "cch_andres_rivas",
+    "branch_id": "br_jvc",
+    "date": "2026-10-10",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_andres_rivas_20261011",
+    "coach_id": "cch_andres_rivas",
+    "branch_id": "br_jvc",
+    "date": "2026-10-11",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_andres_rivas_20261012",
+    "coach_id": "cch_andres_rivas",
+    "branch_id": "br_jvc",
+    "date": "2026-10-12",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_andres_rivas_20261013",
+    "coach_id": "cch_andres_rivas",
+    "branch_id": "br_jvc",
+    "date": "2026-10-13",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_andres_rivas_20261014",
+    "coach_id": "cch_andres_rivas",
+    "branch_id": "br_jvc",
+    "date": "2026-10-14",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_andres_rivas_20261015",
+    "coach_id": "cch_andres_rivas",
+    "branch_id": "br_jvc",
+    "date": "2026-10-15",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_andres_rivas_20261016",
+    "coach_id": "cch_andres_rivas",
+    "branch_id": "br_jvc",
+    "date": "2026-10-16",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_andres_rivas_20261017",
+    "coach_id": "cch_andres_rivas",
+    "branch_id": "br_jvc",
+    "date": "2026-10-17",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_andres_rivas_20261019",
+    "coach_id": "cch_andres_rivas",
+    "branch_id": "br_jvc",
+    "date": "2026-10-19",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_karim_mansour_20261005",
+    "coach_id": "cch_karim_mansour",
+    "branch_id": "br_jvc",
+    "date": "2026-10-05",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_karim_mansour_20261006",
+    "coach_id": "cch_karim_mansour",
+    "branch_id": "br_jvc",
+    "date": "2026-10-06",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_karim_mansour_20261007",
+    "coach_id": "cch_karim_mansour",
+    "branch_id": "br_jvc",
+    "date": "2026-10-07",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_karim_mansour_20261008",
+    "coach_id": "cch_karim_mansour",
+    "branch_id": "br_jvc",
+    "date": "2026-10-08",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_karim_mansour_20261010",
+    "coach_id": "cch_karim_mansour",
+    "branch_id": "br_jvc",
+    "date": "2026-10-10",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_karim_mansour_20261011",
+    "coach_id": "cch_karim_mansour",
+    "branch_id": "br_jvc",
+    "date": "2026-10-11",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_karim_mansour_20261012",
+    "coach_id": "cch_karim_mansour",
+    "branch_id": "br_jvc",
+    "date": "2026-10-12",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_karim_mansour_20261013",
+    "coach_id": "cch_karim_mansour",
+    "branch_id": "br_jvc",
+    "date": "2026-10-13",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_karim_mansour_20261014",
+    "coach_id": "cch_karim_mansour",
+    "branch_id": "br_jvc",
+    "date": "2026-10-14",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_karim_mansour_20261015",
+    "coach_id": "cch_karim_mansour",
+    "branch_id": "br_jvc",
+    "date": "2026-10-15",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_karim_mansour_20261016",
+    "coach_id": "cch_karim_mansour",
+    "branch_id": "br_jvc",
+    "date": "2026-10-16",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_karim_mansour_20261017",
+    "coach_id": "cch_karim_mansour",
+    "branch_id": "br_jvc",
+    "date": "2026-10-17",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_karim_mansour_20261018",
+    "coach_id": "cch_karim_mansour",
+    "branch_id": "br_jvc",
+    "date": "2026-10-18",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_karim_mansour_20261019",
+    "coach_id": "cch_karim_mansour",
+    "branch_id": "br_jvc",
+    "date": "2026-10-19",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_elena_popova_20261005",
+    "coach_id": "cch_elena_popova",
+    "branch_id": "br_jvc",
+    "date": "2026-10-05",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_elena_popova_20261006",
+    "coach_id": "cch_elena_popova",
+    "branch_id": "br_jvc",
+    "date": "2026-10-06",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_elena_popova_20261008",
+    "coach_id": "cch_elena_popova",
+    "branch_id": "br_jvc",
+    "date": "2026-10-08",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_elena_popova_20261009",
+    "coach_id": "cch_elena_popova",
+    "branch_id": "br_jvc",
+    "date": "2026-10-09",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_elena_popova_20261010",
+    "coach_id": "cch_elena_popova",
+    "branch_id": "br_jvc",
+    "date": "2026-10-10",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_elena_popova_20261011",
+    "coach_id": "cch_elena_popova",
+    "branch_id": "br_jvc",
+    "date": "2026-10-11",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_elena_popova_20261012",
+    "coach_id": "cch_elena_popova",
+    "branch_id": "br_jvc",
+    "date": "2026-10-12",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_elena_popova_20261013",
+    "coach_id": "cch_elena_popova",
+    "branch_id": "br_jvc",
+    "date": "2026-10-13",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_elena_popova_20261014",
+    "coach_id": "cch_elena_popova",
+    "branch_id": "br_jvc",
+    "date": "2026-10-14",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_elena_popova_20261015",
+    "coach_id": "cch_elena_popova",
+    "branch_id": "br_jvc",
+    "date": "2026-10-15",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_elena_popova_20261016",
+    "coach_id": "cch_elena_popova",
+    "branch_id": "br_jvc",
+    "date": "2026-10-16",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_elena_popova_20261017",
+    "coach_id": "cch_elena_popova",
+    "branch_id": "br_jvc",
+    "date": "2026-10-17",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_elena_popova_20261019",
+    "coach_id": "cch_elena_popova",
+    "branch_id": "br_jvc",
+    "date": "2026-10-19",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_yousef_halabi_20261005",
+    "coach_id": "cch_yousef_halabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-05",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_yousef_halabi_20261006",
+    "coach_id": "cch_yousef_halabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-06",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_yousef_halabi_20261007",
+    "coach_id": "cch_yousef_halabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-07",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_yousef_halabi_20261008",
+    "coach_id": "cch_yousef_halabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-08",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_yousef_halabi_20261010",
+    "coach_id": "cch_yousef_halabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-10",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_yousef_halabi_20261011",
+    "coach_id": "cch_yousef_halabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-11",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_yousef_halabi_20261012",
+    "coach_id": "cch_yousef_halabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-12",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_yousef_halabi_20261013",
+    "coach_id": "cch_yousef_halabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-13",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_yousef_halabi_20261014",
+    "coach_id": "cch_yousef_halabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-14",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_yousef_halabi_20261015",
+    "coach_id": "cch_yousef_halabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-15",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_yousef_halabi_20261016",
+    "coach_id": "cch_yousef_halabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-16",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_yousef_halabi_20261017",
+    "coach_id": "cch_yousef_halabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-17",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_yousef_halabi_20261018",
+    "coach_id": "cch_yousef_halabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-18",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_yousef_halabi_20261019",
+    "coach_id": "cch_yousef_halabi",
+    "branch_id": "br_jvc",
+    "date": "2026-10-19",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_pablo_ortega_20261006",
+    "coach_id": "cch_pablo_ortega",
+    "branch_id": "br_yas",
+    "date": "2026-10-06",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_pablo_ortega_20261007",
+    "coach_id": "cch_pablo_ortega",
+    "branch_id": "br_yas",
+    "date": "2026-10-07",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_pablo_ortega_20261008",
+    "coach_id": "cch_pablo_ortega",
+    "branch_id": "br_yas",
+    "date": "2026-10-08",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_pablo_ortega_20261009",
+    "coach_id": "cch_pablo_ortega",
+    "branch_id": "br_yas",
+    "date": "2026-10-09",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_pablo_ortega_20261010",
+    "coach_id": "cch_pablo_ortega",
+    "branch_id": "br_yas",
+    "date": "2026-10-10",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_pablo_ortega_20261011",
+    "coach_id": "cch_pablo_ortega",
+    "branch_id": "br_yas",
+    "date": "2026-10-11",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_pablo_ortega_20261012",
+    "coach_id": "cch_pablo_ortega",
+    "branch_id": "br_yas",
+    "date": "2026-10-12",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_pablo_ortega_20261013",
+    "coach_id": "cch_pablo_ortega",
+    "branch_id": "br_yas",
+    "date": "2026-10-13",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_pablo_ortega_20261014",
+    "coach_id": "cch_pablo_ortega",
+    "branch_id": "br_yas",
+    "date": "2026-10-14",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_pablo_ortega_20261015",
+    "coach_id": "cch_pablo_ortega",
+    "branch_id": "br_yas",
+    "date": "2026-10-15",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_pablo_ortega_20261016",
+    "coach_id": "cch_pablo_ortega",
+    "branch_id": "br_yas",
+    "date": "2026-10-16",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_pablo_ortega_20261017",
+    "coach_id": "cch_pablo_ortega",
+    "branch_id": "br_yas",
+    "date": "2026-10-17",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_pablo_ortega_20261018",
+    "coach_id": "cch_pablo_ortega",
+    "branch_id": "br_yas",
+    "date": "2026-10-18",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_pablo_ortega_20261019",
+    "coach_id": "cch_pablo_ortega",
+    "branch_id": "br_yas",
+    "date": "2026-10-19",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_noor_al_hashimi_20261005",
+    "coach_id": "cch_noor_al_hashimi",
+    "branch_id": "br_yas",
+    "date": "2026-10-05",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_noor_al_hashimi_20261006",
+    "coach_id": "cch_noor_al_hashimi",
+    "branch_id": "br_yas",
+    "date": "2026-10-06",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_noor_al_hashimi_20261007",
+    "coach_id": "cch_noor_al_hashimi",
+    "branch_id": "br_yas",
+    "date": "2026-10-07",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_noor_al_hashimi_20261008",
+    "coach_id": "cch_noor_al_hashimi",
+    "branch_id": "br_yas",
+    "date": "2026-10-08",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_noor_al_hashimi_20261009",
+    "coach_id": "cch_noor_al_hashimi",
+    "branch_id": "br_yas",
+    "date": "2026-10-09",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_noor_al_hashimi_20261010",
+    "coach_id": "cch_noor_al_hashimi",
+    "branch_id": "br_yas",
+    "date": "2026-10-10",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_noor_al_hashimi_20261011",
+    "coach_id": "cch_noor_al_hashimi",
+    "branch_id": "br_yas",
+    "date": "2026-10-11",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_noor_al_hashimi_20261012",
+    "coach_id": "cch_noor_al_hashimi",
+    "branch_id": "br_yas",
+    "date": "2026-10-12",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_noor_al_hashimi_20261014",
+    "coach_id": "cch_noor_al_hashimi",
+    "branch_id": "br_yas",
+    "date": "2026-10-14",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_noor_al_hashimi_20261015",
+    "coach_id": "cch_noor_al_hashimi",
+    "branch_id": "br_yas",
+    "date": "2026-10-15",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_noor_al_hashimi_20261016",
+    "coach_id": "cch_noor_al_hashimi",
+    "branch_id": "br_yas",
+    "date": "2026-10-16",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_noor_al_hashimi_20261017",
+    "coach_id": "cch_noor_al_hashimi",
+    "branch_id": "br_yas",
+    "date": "2026-10-17",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_noor_al_hashimi_20261018",
+    "coach_id": "cch_noor_al_hashimi",
+    "branch_id": "br_yas",
+    "date": "2026-10-18",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_noor_al_hashimi_20261019",
+    "coach_id": "cch_noor_al_hashimi",
+    "branch_id": "br_yas",
+    "date": "2026-10-19",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_lucas_benitez_20261005",
+    "coach_id": "cch_lucas_benitez",
+    "branch_id": "br_yas",
+    "date": "2026-10-05",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_lucas_benitez_20261006",
+    "coach_id": "cch_lucas_benitez",
+    "branch_id": "br_yas",
+    "date": "2026-10-06",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_lucas_benitez_20261007",
+    "coach_id": "cch_lucas_benitez",
+    "branch_id": "br_yas",
+    "date": "2026-10-07",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_lucas_benitez_20261008",
+    "coach_id": "cch_lucas_benitez",
+    "branch_id": "br_yas",
+    "date": "2026-10-08",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_lucas_benitez_20261009",
+    "coach_id": "cch_lucas_benitez",
+    "branch_id": "br_yas",
+    "date": "2026-10-09",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_lucas_benitez_20261010",
+    "coach_id": "cch_lucas_benitez",
+    "branch_id": "br_yas",
+    "date": "2026-10-10",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_lucas_benitez_20261012",
+    "coach_id": "cch_lucas_benitez",
+    "branch_id": "br_yas",
+    "date": "2026-10-12",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_lucas_benitez_20261013",
+    "coach_id": "cch_lucas_benitez",
+    "branch_id": "br_yas",
+    "date": "2026-10-13",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_lucas_benitez_20261014",
+    "coach_id": "cch_lucas_benitez",
+    "branch_id": "br_yas",
+    "date": "2026-10-14",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_lucas_benitez_20261015",
+    "coach_id": "cch_lucas_benitez",
+    "branch_id": "br_yas",
+    "date": "2026-10-15",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_lucas_benitez_20261016",
+    "coach_id": "cch_lucas_benitez",
+    "branch_id": "br_yas",
+    "date": "2026-10-16",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_lucas_benitez_20261017",
+    "coach_id": "cch_lucas_benitez",
+    "branch_id": "br_yas",
+    "date": "2026-10-17",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_lucas_benitez_20261018",
+    "coach_id": "cch_lucas_benitez",
+    "branch_id": "br_yas",
+    "date": "2026-10-18",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_lucas_benitez_20261019",
+    "coach_id": "cch_lucas_benitez",
+    "branch_id": "br_yas",
+    "date": "2026-10-19",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ahmed_sultan_20261006",
+    "coach_id": "cch_ahmed_sultan",
+    "branch_id": "br_yas",
+    "date": "2026-10-06",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ahmed_sultan_20261007",
+    "coach_id": "cch_ahmed_sultan",
+    "branch_id": "br_yas",
+    "date": "2026-10-07",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ahmed_sultan_20261008",
+    "coach_id": "cch_ahmed_sultan",
+    "branch_id": "br_yas",
+    "date": "2026-10-08",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ahmed_sultan_20261009",
+    "coach_id": "cch_ahmed_sultan",
+    "branch_id": "br_yas",
+    "date": "2026-10-09",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_ahmed_sultan_20261010",
+    "coach_id": "cch_ahmed_sultan",
+    "branch_id": "br_yas",
+    "date": "2026-10-10",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ahmed_sultan_20261011",
+    "coach_id": "cch_ahmed_sultan",
+    "branch_id": "br_yas",
+    "date": "2026-10-11",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ahmed_sultan_20261012",
+    "coach_id": "cch_ahmed_sultan",
+    "branch_id": "br_yas",
+    "date": "2026-10-12",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ahmed_sultan_20261013",
+    "coach_id": "cch_ahmed_sultan",
+    "branch_id": "br_yas",
+    "date": "2026-10-13",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ahmed_sultan_20261014",
+    "coach_id": "cch_ahmed_sultan",
+    "branch_id": "br_yas",
+    "date": "2026-10-14",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ahmed_sultan_20261015",
+    "coach_id": "cch_ahmed_sultan",
+    "branch_id": "br_yas",
+    "date": "2026-10-15",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ahmed_sultan_20261017",
+    "coach_id": "cch_ahmed_sultan",
+    "branch_id": "br_yas",
+    "date": "2026-10-17",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_ahmed_sultan_20261018",
+    "coach_id": "cch_ahmed_sultan",
+    "branch_id": "br_yas",
+    "date": "2026-10-18",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ahmed_sultan_20261019",
+    "coach_id": "cch_ahmed_sultan",
+    "branch_id": "br_yas",
+    "date": "2026-10-19",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_chiara_rossi_20261005",
+    "coach_id": "cch_chiara_rossi",
+    "branch_id": "br_yas",
+    "date": "2026-10-05",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_chiara_rossi_20261006",
+    "coach_id": "cch_chiara_rossi",
+    "branch_id": "br_yas",
+    "date": "2026-10-06",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_chiara_rossi_20261007",
+    "coach_id": "cch_chiara_rossi",
+    "branch_id": "br_yas",
+    "date": "2026-10-07",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_chiara_rossi_20261008",
+    "coach_id": "cch_chiara_rossi",
+    "branch_id": "br_yas",
+    "date": "2026-10-08",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_chiara_rossi_20261009",
+    "coach_id": "cch_chiara_rossi",
+    "branch_id": "br_yas",
+    "date": "2026-10-09",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_chiara_rossi_20261011",
+    "coach_id": "cch_chiara_rossi",
+    "branch_id": "br_yas",
+    "date": "2026-10-11",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_chiara_rossi_20261012",
+    "coach_id": "cch_chiara_rossi",
+    "branch_id": "br_yas",
+    "date": "2026-10-12",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_chiara_rossi_20261013",
+    "coach_id": "cch_chiara_rossi",
+    "branch_id": "br_yas",
+    "date": "2026-10-13",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_chiara_rossi_20261014",
+    "coach_id": "cch_chiara_rossi",
+    "branch_id": "br_yas",
+    "date": "2026-10-14",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_chiara_rossi_20261015",
+    "coach_id": "cch_chiara_rossi",
+    "branch_id": "br_yas",
+    "date": "2026-10-15",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_chiara_rossi_20261016",
+    "coach_id": "cch_chiara_rossi",
+    "branch_id": "br_yas",
+    "date": "2026-10-16",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_chiara_rossi_20261017",
+    "coach_id": "cch_chiara_rossi",
+    "branch_id": "br_yas",
+    "date": "2026-10-17",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_chiara_rossi_20261018",
+    "coach_id": "cch_chiara_rossi",
+    "branch_id": "br_yas",
+    "date": "2026-10-18",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_chiara_rossi_20261019",
+    "coach_id": "cch_chiara_rossi",
+    "branch_id": "br_yas",
+    "date": "2026-10-19",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_bilal_chaudhry_20261005",
+    "coach_id": "cch_bilal_chaudhry",
+    "branch_id": "br_yas",
+    "date": "2026-10-05",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_bilal_chaudhry_20261007",
+    "coach_id": "cch_bilal_chaudhry",
+    "branch_id": "br_yas",
+    "date": "2026-10-07",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_bilal_chaudhry_20261008",
+    "coach_id": "cch_bilal_chaudhry",
+    "branch_id": "br_yas",
+    "date": "2026-10-08",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_bilal_chaudhry_20261009",
+    "coach_id": "cch_bilal_chaudhry",
+    "branch_id": "br_yas",
+    "date": "2026-10-09",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_bilal_chaudhry_20261010",
+    "coach_id": "cch_bilal_chaudhry",
+    "branch_id": "br_yas",
+    "date": "2026-10-10",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_bilal_chaudhry_20261012",
+    "coach_id": "cch_bilal_chaudhry",
+    "branch_id": "br_yas",
+    "date": "2026-10-12",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_bilal_chaudhry_20261013",
+    "coach_id": "cch_bilal_chaudhry",
+    "branch_id": "br_yas",
+    "date": "2026-10-13",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_bilal_chaudhry_20261014",
+    "coach_id": "cch_bilal_chaudhry",
+    "branch_id": "br_yas",
+    "date": "2026-10-14",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_bilal_chaudhry_20261015",
+    "coach_id": "cch_bilal_chaudhry",
+    "branch_id": "br_yas",
+    "date": "2026-10-15",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_bilal_chaudhry_20261016",
+    "coach_id": "cch_bilal_chaudhry",
+    "branch_id": "br_yas",
+    "date": "2026-10-16",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_bilal_chaudhry_20261017",
+    "coach_id": "cch_bilal_chaudhry",
+    "branch_id": "br_yas",
+    "date": "2026-10-17",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_bilal_chaudhry_20261018",
+    "coach_id": "cch_bilal_chaudhry",
+    "branch_id": "br_yas",
+    "date": "2026-10-18",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_bilal_chaudhry_20261019",
+    "coach_id": "cch_bilal_chaudhry",
+    "branch_id": "br_yas",
+    "date": "2026-10-19",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_reem_darwish_20261005",
+    "coach_id": "cch_reem_darwish",
+    "branch_id": "br_yas",
+    "date": "2026-10-05",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_reem_darwish_20261006",
+    "coach_id": "cch_reem_darwish",
+    "branch_id": "br_yas",
+    "date": "2026-10-06",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_reem_darwish_20261007",
+    "coach_id": "cch_reem_darwish",
+    "branch_id": "br_yas",
+    "date": "2026-10-07",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_reem_darwish_20261008",
+    "coach_id": "cch_reem_darwish",
+    "branch_id": "br_yas",
+    "date": "2026-10-08",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_reem_darwish_20261009",
+    "coach_id": "cch_reem_darwish",
+    "branch_id": "br_yas",
+    "date": "2026-10-09",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_reem_darwish_20261010",
+    "coach_id": "cch_reem_darwish",
+    "branch_id": "br_yas",
+    "date": "2026-10-10",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_reem_darwish_20261011",
+    "coach_id": "cch_reem_darwish",
+    "branch_id": "br_yas",
+    "date": "2026-10-11",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_reem_darwish_20261012",
+    "coach_id": "cch_reem_darwish",
+    "branch_id": "br_yas",
+    "date": "2026-10-12",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_reem_darwish_20261013",
+    "coach_id": "cch_reem_darwish",
+    "branch_id": "br_yas",
+    "date": "2026-10-13",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_reem_darwish_20261014",
+    "coach_id": "cch_reem_darwish",
+    "branch_id": "br_yas",
+    "date": "2026-10-14",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_reem_darwish_20261015",
+    "coach_id": "cch_reem_darwish",
+    "branch_id": "br_yas",
+    "date": "2026-10-15",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_reem_darwish_20261016",
+    "coach_id": "cch_reem_darwish",
+    "branch_id": "br_yas",
+    "date": "2026-10-16",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_reem_darwish_20261017",
+    "coach_id": "cch_reem_darwish",
+    "branch_id": "br_yas",
+    "date": "2026-10-17",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_reem_darwish_20261018",
+    "coach_id": "cch_reem_darwish",
+    "branch_id": "br_yas",
+    "date": "2026-10-18",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_marwan_haddad_20261005",
+    "coach_id": "cch_marwan_haddad",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-05",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_marwan_haddad_20261006",
+    "coach_id": "cch_marwan_haddad",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-06",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_marwan_haddad_20261007",
+    "coach_id": "cch_marwan_haddad",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-07",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_marwan_haddad_20261008",
+    "coach_id": "cch_marwan_haddad",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-08",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_marwan_haddad_20261009",
+    "coach_id": "cch_marwan_haddad",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-09",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_marwan_haddad_20261010",
+    "coach_id": "cch_marwan_haddad",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-10",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_marwan_haddad_20261011",
+    "coach_id": "cch_marwan_haddad",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-11",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_marwan_haddad_20261012",
+    "coach_id": "cch_marwan_haddad",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-12",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_marwan_haddad_20261013",
+    "coach_id": "cch_marwan_haddad",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-13",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_marwan_haddad_20261015",
+    "coach_id": "cch_marwan_haddad",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-15",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_marwan_haddad_20261016",
+    "coach_id": "cch_marwan_haddad",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-16",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_marwan_haddad_20261018",
+    "coach_id": "cch_marwan_haddad",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-18",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_marwan_haddad_20261019",
+    "coach_id": "cch_marwan_haddad",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-19",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_javier_molina_20261005",
+    "coach_id": "cch_javier_molina",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-05",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_javier_molina_20261006",
+    "coach_id": "cch_javier_molina",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-06",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_javier_molina_20261007",
+    "coach_id": "cch_javier_molina",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-07",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_javier_molina_20261009",
+    "coach_id": "cch_javier_molina",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-09",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_javier_molina_20261010",
+    "coach_id": "cch_javier_molina",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-10",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_javier_molina_20261011",
+    "coach_id": "cch_javier_molina",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-11",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_javier_molina_20261012",
+    "coach_id": "cch_javier_molina",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-12",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_javier_molina_20261013",
+    "coach_id": "cch_javier_molina",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-13",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_javier_molina_20261014",
+    "coach_id": "cch_javier_molina",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-14",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_javier_molina_20261015",
+    "coach_id": "cch_javier_molina",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-15",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_javier_molina_20261016",
+    "coach_id": "cch_javier_molina",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-16",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_javier_molina_20261017",
+    "coach_id": "cch_javier_molina",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-17",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_javier_molina_20261018",
+    "coach_id": "cch_javier_molina",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-18",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_javier_molina_20261019",
+    "coach_id": "cch_javier_molina",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-19",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_aisha_al_marri_20261005",
+    "coach_id": "cch_aisha_al_marri",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-05",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_aisha_al_marri_20261006",
+    "coach_id": "cch_aisha_al_marri",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-06",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_aisha_al_marri_20261007",
+    "coach_id": "cch_aisha_al_marri",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-07",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_aisha_al_marri_20261008",
+    "coach_id": "cch_aisha_al_marri",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-08",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_aisha_al_marri_20261010",
+    "coach_id": "cch_aisha_al_marri",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-10",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_aisha_al_marri_20261011",
+    "coach_id": "cch_aisha_al_marri",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-11",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_aisha_al_marri_20261012",
+    "coach_id": "cch_aisha_al_marri",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-12",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_aisha_al_marri_20261013",
+    "coach_id": "cch_aisha_al_marri",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-13",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_aisha_al_marri_20261014",
+    "coach_id": "cch_aisha_al_marri",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-14",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_aisha_al_marri_20261015",
+    "coach_id": "cch_aisha_al_marri",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-15",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_aisha_al_marri_20261016",
+    "coach_id": "cch_aisha_al_marri",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-16",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_aisha_al_marri_20261018",
+    "coach_id": "cch_aisha_al_marri",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-18",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_aisha_al_marri_20261019",
+    "coach_id": "cch_aisha_al_marri",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-19",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ravi_menon_20261005",
+    "coach_id": "cch_ravi_menon",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-05",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ravi_menon_20261006",
+    "coach_id": "cch_ravi_menon",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-06",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ravi_menon_20261007",
+    "coach_id": "cch_ravi_menon",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-07",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_ravi_menon_20261008",
+    "coach_id": "cch_ravi_menon",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-08",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_ravi_menon_20261009",
+    "coach_id": "cch_ravi_menon",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-09",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_ravi_menon_20261010",
+    "coach_id": "cch_ravi_menon",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-10",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ravi_menon_20261011",
+    "coach_id": "cch_ravi_menon",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-11",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_ravi_menon_20261013",
+    "coach_id": "cch_ravi_menon",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-13",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_ravi_menon_20261014",
+    "coach_id": "cch_ravi_menon",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-14",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ravi_menon_20261015",
+    "coach_id": "cch_ravi_menon",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-15",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ravi_menon_20261016",
+    "coach_id": "cch_ravi_menon",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-16",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_ravi_menon_20261018",
+    "coach_id": "cch_ravi_menon",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-18",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ravi_menon_20261019",
+    "coach_id": "cch_ravi_menon",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-19",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_salem_al_ketbi_20261005",
+    "coach_id": "cch_salem_al_ketbi",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-05",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_salem_al_ketbi_20261006",
+    "coach_id": "cch_salem_al_ketbi",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-06",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_salem_al_ketbi_20261007",
+    "coach_id": "cch_salem_al_ketbi",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-07",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_salem_al_ketbi_20261008",
+    "coach_id": "cch_salem_al_ketbi",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-08",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_salem_al_ketbi_20261009",
+    "coach_id": "cch_salem_al_ketbi",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-09",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_salem_al_ketbi_20261010",
+    "coach_id": "cch_salem_al_ketbi",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-10",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_salem_al_ketbi_20261011",
+    "coach_id": "cch_salem_al_ketbi",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-11",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_salem_al_ketbi_20261013",
+    "coach_id": "cch_salem_al_ketbi",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-13",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_salem_al_ketbi_20261014",
+    "coach_id": "cch_salem_al_ketbi",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-14",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_salem_al_ketbi_20261015",
+    "coach_id": "cch_salem_al_ketbi",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-15",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_salem_al_ketbi_20261016",
+    "coach_id": "cch_salem_al_ketbi",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-16",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_salem_al_ketbi_20261017",
+    "coach_id": "cch_salem_al_ketbi",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-17",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_salem_al_ketbi_20261018",
+    "coach_id": "cch_salem_al_ketbi",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-18",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_salem_al_ketbi_20261019",
+    "coach_id": "cch_salem_al_ketbi",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-19",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_marta_vidal_20261006",
+    "coach_id": "cch_marta_vidal",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-06",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_marta_vidal_20261007",
+    "coach_id": "cch_marta_vidal",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-07",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_marta_vidal_20261009",
+    "coach_id": "cch_marta_vidal",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-09",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_marta_vidal_20261010",
+    "coach_id": "cch_marta_vidal",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-10",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_marta_vidal_20261011",
+    "coach_id": "cch_marta_vidal",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-11",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_marta_vidal_20261012",
+    "coach_id": "cch_marta_vidal",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-12",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_marta_vidal_20261013",
+    "coach_id": "cch_marta_vidal",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-13",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_marta_vidal_20261014",
+    "coach_id": "cch_marta_vidal",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-14",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_marta_vidal_20261015",
+    "coach_id": "cch_marta_vidal",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-15",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_marta_vidal_20261016",
+    "coach_id": "cch_marta_vidal",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-16",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_marta_vidal_20261017",
+    "coach_id": "cch_marta_vidal",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-17",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_marta_vidal_20261018",
+    "coach_id": "cch_marta_vidal",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-18",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_marta_vidal_20261019",
+    "coach_id": "cch_marta_vidal",
+    "branch_id": "br_khalifa",
+    "date": "2026-10-19",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hamad_al_dhaheri_20261005",
+    "coach_id": "cch_hamad_al_dhaheri",
+    "branch_id": "br_alain",
+    "date": "2026-10-05",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hamad_al_dhaheri_20261006",
+    "coach_id": "cch_hamad_al_dhaheri",
+    "branch_id": "br_alain",
+    "date": "2026-10-06",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hamad_al_dhaheri_20261007",
+    "coach_id": "cch_hamad_al_dhaheri",
+    "branch_id": "br_alain",
+    "date": "2026-10-07",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hamad_al_dhaheri_20261009",
+    "coach_id": "cch_hamad_al_dhaheri",
+    "branch_id": "br_alain",
+    "date": "2026-10-09",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hamad_al_dhaheri_20261010",
+    "coach_id": "cch_hamad_al_dhaheri",
+    "branch_id": "br_alain",
+    "date": "2026-10-10",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hamad_al_dhaheri_20261011",
+    "coach_id": "cch_hamad_al_dhaheri",
+    "branch_id": "br_alain",
+    "date": "2026-10-11",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hamad_al_dhaheri_20261012",
+    "coach_id": "cch_hamad_al_dhaheri",
+    "branch_id": "br_alain",
+    "date": "2026-10-12",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_hamad_al_dhaheri_20261013",
+    "coach_id": "cch_hamad_al_dhaheri",
+    "branch_id": "br_alain",
+    "date": "2026-10-13",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hamad_al_dhaheri_20261014",
+    "coach_id": "cch_hamad_al_dhaheri",
+    "branch_id": "br_alain",
+    "date": "2026-10-14",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hamad_al_dhaheri_20261015",
+    "coach_id": "cch_hamad_al_dhaheri",
+    "branch_id": "br_alain",
+    "date": "2026-10-15",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hamad_al_dhaheri_20261016",
+    "coach_id": "cch_hamad_al_dhaheri",
+    "branch_id": "br_alain",
+    "date": "2026-10-16",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hamad_al_dhaheri_20261017",
+    "coach_id": "cch_hamad_al_dhaheri",
+    "branch_id": "br_alain",
+    "date": "2026-10-17",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hamad_al_dhaheri_20261018",
+    "coach_id": "cch_hamad_al_dhaheri",
+    "branch_id": "br_alain",
+    "date": "2026-10-18",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_gonzalo_ferrer_20261005",
+    "coach_id": "cch_gonzalo_ferrer",
+    "branch_id": "br_alain",
+    "date": "2026-10-05",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_gonzalo_ferrer_20261006",
+    "coach_id": "cch_gonzalo_ferrer",
+    "branch_id": "br_alain",
+    "date": "2026-10-06",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_gonzalo_ferrer_20261008",
+    "coach_id": "cch_gonzalo_ferrer",
+    "branch_id": "br_alain",
+    "date": "2026-10-08",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_gonzalo_ferrer_20261009",
+    "coach_id": "cch_gonzalo_ferrer",
+    "branch_id": "br_alain",
+    "date": "2026-10-09",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_gonzalo_ferrer_20261010",
+    "coach_id": "cch_gonzalo_ferrer",
+    "branch_id": "br_alain",
+    "date": "2026-10-10",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_gonzalo_ferrer_20261012",
+    "coach_id": "cch_gonzalo_ferrer",
+    "branch_id": "br_alain",
+    "date": "2026-10-12",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_gonzalo_ferrer_20261013",
+    "coach_id": "cch_gonzalo_ferrer",
+    "branch_id": "br_alain",
+    "date": "2026-10-13",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_gonzalo_ferrer_20261014",
+    "coach_id": "cch_gonzalo_ferrer",
+    "branch_id": "br_alain",
+    "date": "2026-10-14",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_gonzalo_ferrer_20261015",
+    "coach_id": "cch_gonzalo_ferrer",
+    "branch_id": "br_alain",
+    "date": "2026-10-15",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_gonzalo_ferrer_20261016",
+    "coach_id": "cch_gonzalo_ferrer",
+    "branch_id": "br_alain",
+    "date": "2026-10-16",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_gonzalo_ferrer_20261017",
+    "coach_id": "cch_gonzalo_ferrer",
+    "branch_id": "br_alain",
+    "date": "2026-10-17",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_gonzalo_ferrer_20261018",
+    "coach_id": "cch_gonzalo_ferrer",
+    "branch_id": "br_alain",
+    "date": "2026-10-18",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_gonzalo_ferrer_20261019",
+    "coach_id": "cch_gonzalo_ferrer",
+    "branch_id": "br_alain",
+    "date": "2026-10-19",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_mariam_al_ameri_20261005",
+    "coach_id": "cch_mariam_al_ameri",
+    "branch_id": "br_alain",
+    "date": "2026-10-05",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_mariam_al_ameri_20261006",
+    "coach_id": "cch_mariam_al_ameri",
+    "branch_id": "br_alain",
+    "date": "2026-10-06",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_mariam_al_ameri_20261007",
+    "coach_id": "cch_mariam_al_ameri",
+    "branch_id": "br_alain",
+    "date": "2026-10-07",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_mariam_al_ameri_20261008",
+    "coach_id": "cch_mariam_al_ameri",
+    "branch_id": "br_alain",
+    "date": "2026-10-08",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_mariam_al_ameri_20261009",
+    "coach_id": "cch_mariam_al_ameri",
+    "branch_id": "br_alain",
+    "date": "2026-10-09",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_mariam_al_ameri_20261010",
+    "coach_id": "cch_mariam_al_ameri",
+    "branch_id": "br_alain",
+    "date": "2026-10-10",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_mariam_al_ameri_20261011",
+    "coach_id": "cch_mariam_al_ameri",
+    "branch_id": "br_alain",
+    "date": "2026-10-11",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_mariam_al_ameri_20261013",
+    "coach_id": "cch_mariam_al_ameri",
+    "branch_id": "br_alain",
+    "date": "2026-10-13",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_mariam_al_ameri_20261014",
+    "coach_id": "cch_mariam_al_ameri",
+    "branch_id": "br_alain",
+    "date": "2026-10-14",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_mariam_al_ameri_20261015",
+    "coach_id": "cch_mariam_al_ameri",
+    "branch_id": "br_alain",
+    "date": "2026-10-15",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_mariam_al_ameri_20261016",
+    "coach_id": "cch_mariam_al_ameri",
+    "branch_id": "br_alain",
+    "date": "2026-10-16",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_mariam_al_ameri_20261017",
+    "coach_id": "cch_mariam_al_ameri",
+    "branch_id": "br_alain",
+    "date": "2026-10-17",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_mariam_al_ameri_20261019",
+    "coach_id": "cch_mariam_al_ameri",
+    "branch_id": "br_alain",
+    "date": "2026-10-19",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ibrahim_saleh_20261005",
+    "coach_id": "cch_ibrahim_saleh",
+    "branch_id": "br_alain",
+    "date": "2026-10-05",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ibrahim_saleh_20261006",
+    "coach_id": "cch_ibrahim_saleh",
+    "branch_id": "br_alain",
+    "date": "2026-10-06",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ibrahim_saleh_20261008",
+    "coach_id": "cch_ibrahim_saleh",
+    "branch_id": "br_alain",
+    "date": "2026-10-08",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ibrahim_saleh_20261009",
+    "coach_id": "cch_ibrahim_saleh",
+    "branch_id": "br_alain",
+    "date": "2026-10-09",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ibrahim_saleh_20261011",
+    "coach_id": "cch_ibrahim_saleh",
+    "branch_id": "br_alain",
+    "date": "2026-10-11",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ibrahim_saleh_20261012",
+    "coach_id": "cch_ibrahim_saleh",
+    "branch_id": "br_alain",
+    "date": "2026-10-12",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_ibrahim_saleh_20261013",
+    "coach_id": "cch_ibrahim_saleh",
+    "branch_id": "br_alain",
+    "date": "2026-10-13",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_ibrahim_saleh_20261014",
+    "coach_id": "cch_ibrahim_saleh",
+    "branch_id": "br_alain",
+    "date": "2026-10-14",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ibrahim_saleh_20261015",
+    "coach_id": "cch_ibrahim_saleh",
+    "branch_id": "br_alain",
+    "date": "2026-10-15",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_ibrahim_saleh_20261016",
+    "coach_id": "cch_ibrahim_saleh",
+    "branch_id": "br_alain",
+    "date": "2026-10-16",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ibrahim_saleh_20261017",
+    "coach_id": "cch_ibrahim_saleh",
+    "branch_id": "br_alain",
+    "date": "2026-10-17",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ibrahim_saleh_20261018",
+    "coach_id": "cch_ibrahim_saleh",
+    "branch_id": "br_alain",
+    "date": "2026-10-18",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ibrahim_saleh_20261019",
+    "coach_id": "cch_ibrahim_saleh",
+    "branch_id": "br_alain",
+    "date": "2026-10-19",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_noura_al_suwaidi_20261005",
+    "coach_id": "cch_noura_al_suwaidi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-05",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_noura_al_suwaidi_20261006",
+    "coach_id": "cch_noura_al_suwaidi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-06",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_noura_al_suwaidi_20261007",
+    "coach_id": "cch_noura_al_suwaidi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-07",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_noura_al_suwaidi_20261008",
+    "coach_id": "cch_noura_al_suwaidi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-08",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_noura_al_suwaidi_20261009",
+    "coach_id": "cch_noura_al_suwaidi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-09",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_noura_al_suwaidi_20261010",
+    "coach_id": "cch_noura_al_suwaidi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-10",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_noura_al_suwaidi_20261011",
+    "coach_id": "cch_noura_al_suwaidi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-11",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_noura_al_suwaidi_20261012",
+    "coach_id": "cch_noura_al_suwaidi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-12",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_noura_al_suwaidi_20261013",
+    "coach_id": "cch_noura_al_suwaidi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-13",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_noura_al_suwaidi_20261014",
+    "coach_id": "cch_noura_al_suwaidi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-14",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_noura_al_suwaidi_20261015",
+    "coach_id": "cch_noura_al_suwaidi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-15",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_noura_al_suwaidi_20261016",
+    "coach_id": "cch_noura_al_suwaidi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-16",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_noura_al_suwaidi_20261017",
+    "coach_id": "cch_noura_al_suwaidi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-17",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_shaikha_al_qasimi_20261005",
+    "coach_id": "cch_shaikha_al_qasimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-05",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_shaikha_al_qasimi_20261006",
+    "coach_id": "cch_shaikha_al_qasimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-06",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_shaikha_al_qasimi_20261007",
+    "coach_id": "cch_shaikha_al_qasimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-07",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_shaikha_al_qasimi_20261009",
+    "coach_id": "cch_shaikha_al_qasimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-09",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_shaikha_al_qasimi_20261010",
+    "coach_id": "cch_shaikha_al_qasimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-10",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_shaikha_al_qasimi_20261011",
+    "coach_id": "cch_shaikha_al_qasimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-11",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_shaikha_al_qasimi_20261012",
+    "coach_id": "cch_shaikha_al_qasimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-12",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_shaikha_al_qasimi_20261013",
+    "coach_id": "cch_shaikha_al_qasimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-13",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_shaikha_al_qasimi_20261015",
+    "coach_id": "cch_shaikha_al_qasimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-15",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_shaikha_al_qasimi_20261016",
+    "coach_id": "cch_shaikha_al_qasimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-16",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_shaikha_al_qasimi_20261017",
+    "coach_id": "cch_shaikha_al_qasimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-17",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_shaikha_al_qasimi_20261018",
+    "coach_id": "cch_shaikha_al_qasimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-18",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_shaikha_al_qasimi_20261019",
+    "coach_id": "cch_shaikha_al_qasimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-19",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ricardo_duarte_20261005",
+    "coach_id": "cch_ricardo_duarte",
+    "branch_id": "br_majaz",
+    "date": "2026-10-05",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ricardo_duarte_20261006",
+    "coach_id": "cch_ricardo_duarte",
+    "branch_id": "br_majaz",
+    "date": "2026-10-06",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ricardo_duarte_20261007",
+    "coach_id": "cch_ricardo_duarte",
+    "branch_id": "br_majaz",
+    "date": "2026-10-07",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ricardo_duarte_20261008",
+    "coach_id": "cch_ricardo_duarte",
+    "branch_id": "br_majaz",
+    "date": "2026-10-08",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ricardo_duarte_20261009",
+    "coach_id": "cch_ricardo_duarte",
+    "branch_id": "br_majaz",
+    "date": "2026-10-09",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_ricardo_duarte_20261010",
+    "coach_id": "cch_ricardo_duarte",
+    "branch_id": "br_majaz",
+    "date": "2026-10-10",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ricardo_duarte_20261011",
+    "coach_id": "cch_ricardo_duarte",
+    "branch_id": "br_majaz",
+    "date": "2026-10-11",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ricardo_duarte_20261012",
+    "coach_id": "cch_ricardo_duarte",
+    "branch_id": "br_majaz",
+    "date": "2026-10-12",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ricardo_duarte_20261014",
+    "coach_id": "cch_ricardo_duarte",
+    "branch_id": "br_majaz",
+    "date": "2026-10-14",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_ricardo_duarte_20261015",
+    "coach_id": "cch_ricardo_duarte",
+    "branch_id": "br_majaz",
+    "date": "2026-10-15",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ricardo_duarte_20261016",
+    "coach_id": "cch_ricardo_duarte",
+    "branch_id": "br_majaz",
+    "date": "2026-10-16",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_ricardo_duarte_20261017",
+    "coach_id": "cch_ricardo_duarte",
+    "branch_id": "br_majaz",
+    "date": "2026-10-17",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_ricardo_duarte_20261019",
+    "coach_id": "cch_ricardo_duarte",
+    "branch_id": "br_majaz",
+    "date": "2026-10-19",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_zayed_al_nuaimi_20261005",
+    "coach_id": "cch_zayed_al_nuaimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-05",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_zayed_al_nuaimi_20261006",
+    "coach_id": "cch_zayed_al_nuaimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-06",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_zayed_al_nuaimi_20261007",
+    "coach_id": "cch_zayed_al_nuaimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-07",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_zayed_al_nuaimi_20261008",
+    "coach_id": "cch_zayed_al_nuaimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-08",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_zayed_al_nuaimi_20261009",
+    "coach_id": "cch_zayed_al_nuaimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-09",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_zayed_al_nuaimi_20261010",
+    "coach_id": "cch_zayed_al_nuaimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-10",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_zayed_al_nuaimi_20261011",
+    "coach_id": "cch_zayed_al_nuaimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-11",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_zayed_al_nuaimi_20261013",
+    "coach_id": "cch_zayed_al_nuaimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-13",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_zayed_al_nuaimi_20261014",
+    "coach_id": "cch_zayed_al_nuaimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-14",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_zayed_al_nuaimi_20261015",
+    "coach_id": "cch_zayed_al_nuaimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-15",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_zayed_al_nuaimi_20261016",
+    "coach_id": "cch_zayed_al_nuaimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-16",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_zayed_al_nuaimi_20261017",
+    "coach_id": "cch_zayed_al_nuaimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-17",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_zayed_al_nuaimi_20261018",
+    "coach_id": "cch_zayed_al_nuaimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-18",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_zayed_al_nuaimi_20261019",
+    "coach_id": "cch_zayed_al_nuaimi",
+    "branch_id": "br_majaz",
+    "date": "2026-10-19",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_amina_belhaj_20261005",
+    "coach_id": "cch_amina_belhaj",
+    "branch_id": "br_majaz",
+    "date": "2026-10-05",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_amina_belhaj_20261006",
+    "coach_id": "cch_amina_belhaj",
+    "branch_id": "br_majaz",
+    "date": "2026-10-06",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_amina_belhaj_20261008",
+    "coach_id": "cch_amina_belhaj",
+    "branch_id": "br_majaz",
+    "date": "2026-10-08",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_amina_belhaj_20261009",
+    "coach_id": "cch_amina_belhaj",
+    "branch_id": "br_majaz",
+    "date": "2026-10-09",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_amina_belhaj_20261010",
+    "coach_id": "cch_amina_belhaj",
+    "branch_id": "br_majaz",
+    "date": "2026-10-10",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_amina_belhaj_20261011",
+    "coach_id": "cch_amina_belhaj",
+    "branch_id": "br_majaz",
+    "date": "2026-10-11",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_amina_belhaj_20261012",
+    "coach_id": "cch_amina_belhaj",
+    "branch_id": "br_majaz",
+    "date": "2026-10-12",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_amina_belhaj_20261013",
+    "coach_id": "cch_amina_belhaj",
+    "branch_id": "br_majaz",
+    "date": "2026-10-13",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_amina_belhaj_20261014",
+    "coach_id": "cch_amina_belhaj",
+    "branch_id": "br_majaz",
+    "date": "2026-10-14",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_amina_belhaj_20261015",
+    "coach_id": "cch_amina_belhaj",
+    "branch_id": "br_majaz",
+    "date": "2026-10-15",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_amina_belhaj_20261016",
+    "coach_id": "cch_amina_belhaj",
+    "branch_id": "br_majaz",
+    "date": "2026-10-16",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_amina_belhaj_20261017",
+    "coach_id": "cch_amina_belhaj",
+    "branch_id": "br_majaz",
+    "date": "2026-10-17",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_amina_belhaj_20261019",
+    "coach_id": "cch_amina_belhaj",
+    "branch_id": "br_majaz",
+    "date": "2026-10-19",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_carlos_ibanez_20261005",
+    "coach_id": "cch_carlos_ibanez",
+    "branch_id": "br_majaz",
+    "date": "2026-10-05",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_carlos_ibanez_20261006",
+    "coach_id": "cch_carlos_ibanez",
+    "branch_id": "br_majaz",
+    "date": "2026-10-06",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_carlos_ibanez_20261007",
+    "coach_id": "cch_carlos_ibanez",
+    "branch_id": "br_majaz",
+    "date": "2026-10-07",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_carlos_ibanez_20261008",
+    "coach_id": "cch_carlos_ibanez",
+    "branch_id": "br_majaz",
+    "date": "2026-10-08",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_carlos_ibanez_20261009",
+    "coach_id": "cch_carlos_ibanez",
+    "branch_id": "br_majaz",
+    "date": "2026-10-09",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_carlos_ibanez_20261010",
+    "coach_id": "cch_carlos_ibanez",
+    "branch_id": "br_majaz",
+    "date": "2026-10-10",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_carlos_ibanez_20261011",
+    "coach_id": "cch_carlos_ibanez",
+    "branch_id": "br_majaz",
+    "date": "2026-10-11",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_carlos_ibanez_20261012",
+    "coach_id": "cch_carlos_ibanez",
+    "branch_id": "br_majaz",
+    "date": "2026-10-12",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_carlos_ibanez_20261013",
+    "coach_id": "cch_carlos_ibanez",
+    "branch_id": "br_majaz",
+    "date": "2026-10-13",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_carlos_ibanez_20261014",
+    "coach_id": "cch_carlos_ibanez",
+    "branch_id": "br_majaz",
+    "date": "2026-10-14",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_carlos_ibanez_20261016",
+    "coach_id": "cch_carlos_ibanez",
+    "branch_id": "br_majaz",
+    "date": "2026-10-16",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_carlos_ibanez_20261017",
+    "coach_id": "cch_carlos_ibanez",
+    "branch_id": "br_majaz",
+    "date": "2026-10-17",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_carlos_ibanez_20261018",
+    "coach_id": "cch_carlos_ibanez",
+    "branch_id": "br_majaz",
+    "date": "2026-10-18",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_carlos_ibanez_20261019",
+    "coach_id": "cch_carlos_ibanez",
+    "branch_id": "br_majaz",
+    "date": "2026-10-19",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_saif_al_shamsi_20261005",
+    "coach_id": "cch_saif_al_shamsi",
+    "branch_id": "br_ajman",
+    "date": "2026-10-05",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_saif_al_shamsi_20261006",
+    "coach_id": "cch_saif_al_shamsi",
+    "branch_id": "br_ajman",
+    "date": "2026-10-06",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_saif_al_shamsi_20261007",
+    "coach_id": "cch_saif_al_shamsi",
+    "branch_id": "br_ajman",
+    "date": "2026-10-07",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_saif_al_shamsi_20261008",
+    "coach_id": "cch_saif_al_shamsi",
+    "branch_id": "br_ajman",
+    "date": "2026-10-08",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_saif_al_shamsi_20261009",
+    "coach_id": "cch_saif_al_shamsi",
+    "branch_id": "br_ajman",
+    "date": "2026-10-09",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_saif_al_shamsi_20261010",
+    "coach_id": "cch_saif_al_shamsi",
+    "branch_id": "br_ajman",
+    "date": "2026-10-10",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_saif_al_shamsi_20261012",
+    "coach_id": "cch_saif_al_shamsi",
+    "branch_id": "br_ajman",
+    "date": "2026-10-12",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_saif_al_shamsi_20261013",
+    "coach_id": "cch_saif_al_shamsi",
+    "branch_id": "br_ajman",
+    "date": "2026-10-13",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_saif_al_shamsi_20261014",
+    "coach_id": "cch_saif_al_shamsi",
+    "branch_id": "br_ajman",
+    "date": "2026-10-14",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_saif_al_shamsi_20261015",
+    "coach_id": "cch_saif_al_shamsi",
+    "branch_id": "br_ajman",
+    "date": "2026-10-15",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_saif_al_shamsi_20261016",
+    "coach_id": "cch_saif_al_shamsi",
+    "branch_id": "br_ajman",
+    "date": "2026-10-16",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_saif_al_shamsi_20261017",
+    "coach_id": "cch_saif_al_shamsi",
+    "branch_id": "br_ajman",
+    "date": "2026-10-17",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_saif_al_shamsi_20261019",
+    "coach_id": "cch_saif_al_shamsi",
+    "branch_id": "br_ajman",
+    "date": "2026-10-19",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_valentina_cruz_20261005",
+    "coach_id": "cch_valentina_cruz",
+    "branch_id": "br_ajman",
+    "date": "2026-10-05",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_valentina_cruz_20261006",
+    "coach_id": "cch_valentina_cruz",
+    "branch_id": "br_ajman",
+    "date": "2026-10-06",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_valentina_cruz_20261008",
+    "coach_id": "cch_valentina_cruz",
+    "branch_id": "br_ajman",
+    "date": "2026-10-08",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_valentina_cruz_20261009",
+    "coach_id": "cch_valentina_cruz",
+    "branch_id": "br_ajman",
+    "date": "2026-10-09",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_valentina_cruz_20261010",
+    "coach_id": "cch_valentina_cruz",
+    "branch_id": "br_ajman",
+    "date": "2026-10-10",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_valentina_cruz_20261011",
+    "coach_id": "cch_valentina_cruz",
+    "branch_id": "br_ajman",
+    "date": "2026-10-11",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_valentina_cruz_20261012",
+    "coach_id": "cch_valentina_cruz",
+    "branch_id": "br_ajman",
+    "date": "2026-10-12",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_valentina_cruz_20261013",
+    "coach_id": "cch_valentina_cruz",
+    "branch_id": "br_ajman",
+    "date": "2026-10-13",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_valentina_cruz_20261014",
+    "coach_id": "cch_valentina_cruz",
+    "branch_id": "br_ajman",
+    "date": "2026-10-14",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_valentina_cruz_20261015",
+    "coach_id": "cch_valentina_cruz",
+    "branch_id": "br_ajman",
+    "date": "2026-10-15",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_valentina_cruz_20261016",
+    "coach_id": "cch_valentina_cruz",
+    "branch_id": "br_ajman",
+    "date": "2026-10-16",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_valentina_cruz_20261017",
+    "coach_id": "cch_valentina_cruz",
+    "branch_id": "br_ajman",
+    "date": "2026-10-17",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_valentina_cruz_20261018",
+    "coach_id": "cch_valentina_cruz",
+    "branch_id": "br_ajman",
+    "date": "2026-10-18",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_hassan_nofal_20261006",
+    "coach_id": "cch_hassan_nofal",
+    "branch_id": "br_ajman",
+    "date": "2026-10-06",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hassan_nofal_20261007",
+    "coach_id": "cch_hassan_nofal",
+    "branch_id": "br_ajman",
+    "date": "2026-10-07",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hassan_nofal_20261008",
+    "coach_id": "cch_hassan_nofal",
+    "branch_id": "br_ajman",
+    "date": "2026-10-08",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hassan_nofal_20261009",
+    "coach_id": "cch_hassan_nofal",
+    "branch_id": "br_ajman",
+    "date": "2026-10-09",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hassan_nofal_20261010",
+    "coach_id": "cch_hassan_nofal",
+    "branch_id": "br_ajman",
+    "date": "2026-10-10",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hassan_nofal_20261011",
+    "coach_id": "cch_hassan_nofal",
+    "branch_id": "br_ajman",
+    "date": "2026-10-11",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hassan_nofal_20261012",
+    "coach_id": "cch_hassan_nofal",
+    "branch_id": "br_ajman",
+    "date": "2026-10-12",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hassan_nofal_20261013",
+    "coach_id": "cch_hassan_nofal",
+    "branch_id": "br_ajman",
+    "date": "2026-10-13",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hassan_nofal_20261015",
+    "coach_id": "cch_hassan_nofal",
+    "branch_id": "br_ajman",
+    "date": "2026-10-15",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hassan_nofal_20261016",
+    "coach_id": "cch_hassan_nofal",
+    "branch_id": "br_ajman",
+    "date": "2026-10-16",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hassan_nofal_20261017",
+    "coach_id": "cch_hassan_nofal",
+    "branch_id": "br_ajman",
+    "date": "2026-10-17",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hassan_nofal_20261018",
+    "coach_id": "cch_hassan_nofal",
+    "branch_id": "br_ajman",
+    "date": "2026-10-18",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_hassan_nofal_20261019",
+    "coach_id": "cch_hassan_nofal",
+    "branch_id": "br_ajman",
+    "date": "2026-10-19",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_dina_kamal_20261006",
+    "coach_id": "cch_dina_kamal",
+    "branch_id": "br_ajman",
+    "date": "2026-10-06",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_dina_kamal_20261008",
+    "coach_id": "cch_dina_kamal",
+    "branch_id": "br_ajman",
+    "date": "2026-10-08",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_dina_kamal_20261009",
+    "coach_id": "cch_dina_kamal",
+    "branch_id": "br_ajman",
+    "date": "2026-10-09",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "off"
+  },
+  {
+    "id": "csch_dina_kamal_20261010",
+    "coach_id": "cch_dina_kamal",
+    "branch_id": "br_ajman",
+    "date": "2026-10-10",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_dina_kamal_20261011",
+    "coach_id": "cch_dina_kamal",
+    "branch_id": "br_ajman",
+    "date": "2026-10-11",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_dina_kamal_20261012",
+    "coach_id": "cch_dina_kamal",
+    "branch_id": "br_ajman",
+    "date": "2026-10-12",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_dina_kamal_20261013",
+    "coach_id": "cch_dina_kamal",
+    "branch_id": "br_ajman",
+    "date": "2026-10-13",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_dina_kamal_20261014",
+    "coach_id": "cch_dina_kamal",
+    "branch_id": "br_ajman",
+    "date": "2026-10-14",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_dina_kamal_20261015",
+    "coach_id": "cch_dina_kamal",
+    "branch_id": "br_ajman",
+    "date": "2026-10-15",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_dina_kamal_20261016",
+    "coach_id": "cch_dina_kamal",
+    "branch_id": "br_ajman",
+    "date": "2026-10-16",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_dina_kamal_20261017",
+    "coach_id": "cch_dina_kamal",
+    "branch_id": "br_ajman",
+    "date": "2026-10-17",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_dina_kamal_20261018",
+    "coach_id": "cch_dina_kamal",
+    "branch_id": "br_ajman",
+    "date": "2026-10-18",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_dina_kamal_20261019",
+    "coach_id": "cch_dina_kamal",
+    "branch_id": "br_ajman",
+    "date": "2026-10-19",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_adam_whitfield_20261005",
+    "coach_id": "cch_adam_whitfield",
+    "branch_id": "br_rak",
+    "date": "2026-10-05",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_adam_whitfield_20261007",
+    "coach_id": "cch_adam_whitfield",
+    "branch_id": "br_rak",
+    "date": "2026-10-07",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_adam_whitfield_20261008",
+    "coach_id": "cch_adam_whitfield",
+    "branch_id": "br_rak",
+    "date": "2026-10-08",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_adam_whitfield_20261010",
+    "coach_id": "cch_adam_whitfield",
+    "branch_id": "br_rak",
+    "date": "2026-10-10",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_adam_whitfield_20261011",
+    "coach_id": "cch_adam_whitfield",
+    "branch_id": "br_rak",
+    "date": "2026-10-11",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_adam_whitfield_20261012",
+    "coach_id": "cch_adam_whitfield",
+    "branch_id": "br_rak",
+    "date": "2026-10-12",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_adam_whitfield_20261013",
+    "coach_id": "cch_adam_whitfield",
+    "branch_id": "br_rak",
+    "date": "2026-10-13",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_adam_whitfield_20261014",
+    "coach_id": "cch_adam_whitfield",
+    "branch_id": "br_rak",
+    "date": "2026-10-14",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_adam_whitfield_20261015",
+    "coach_id": "cch_adam_whitfield",
+    "branch_id": "br_rak",
+    "date": "2026-10-15",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_adam_whitfield_20261016",
+    "coach_id": "cch_adam_whitfield",
+    "branch_id": "br_rak",
+    "date": "2026-10-16",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_adam_whitfield_20261017",
+    "coach_id": "cch_adam_whitfield",
+    "branch_id": "br_rak",
+    "date": "2026-10-17",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_adam_whitfield_20261018",
+    "coach_id": "cch_adam_whitfield",
+    "branch_id": "br_rak",
+    "date": "2026-10-18",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_adam_whitfield_20261019",
+    "coach_id": "cch_adam_whitfield",
+    "branch_id": "br_rak",
+    "date": "2026-10-19",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_maya_khoury_20261005",
+    "coach_id": "cch_maya_khoury",
+    "branch_id": "br_rak",
+    "date": "2026-10-05",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_maya_khoury_20261006",
+    "coach_id": "cch_maya_khoury",
+    "branch_id": "br_rak",
+    "date": "2026-10-06",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_maya_khoury_20261007",
+    "coach_id": "cch_maya_khoury",
+    "branch_id": "br_rak",
+    "date": "2026-10-07",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_maya_khoury_20261008",
+    "coach_id": "cch_maya_khoury",
+    "branch_id": "br_rak",
+    "date": "2026-10-08",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_maya_khoury_20261009",
+    "coach_id": "cch_maya_khoury",
+    "branch_id": "br_rak",
+    "date": "2026-10-09",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_maya_khoury_20261010",
+    "coach_id": "cch_maya_khoury",
+    "branch_id": "br_rak",
+    "date": "2026-10-10",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_maya_khoury_20261011",
+    "coach_id": "cch_maya_khoury",
+    "branch_id": "br_rak",
+    "date": "2026-10-11",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_maya_khoury_20261012",
+    "coach_id": "cch_maya_khoury",
+    "branch_id": "br_rak",
+    "date": "2026-10-12",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_maya_khoury_20261013",
+    "coach_id": "cch_maya_khoury",
+    "branch_id": "br_rak",
+    "date": "2026-10-13",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_maya_khoury_20261015",
+    "coach_id": "cch_maya_khoury",
+    "branch_id": "br_rak",
+    "date": "2026-10-15",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_maya_khoury_20261016",
+    "coach_id": "cch_maya_khoury",
+    "branch_id": "br_rak",
+    "date": "2026-10-16",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_maya_khoury_20261017",
+    "coach_id": "cch_maya_khoury",
+    "branch_id": "br_rak",
+    "date": "2026-10-17",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "booked"
+  },
+  {
+    "id": "csch_maya_khoury_20261018",
+    "coach_id": "cch_maya_khoury",
+    "branch_id": "br_rak",
+    "date": "2026-10-18",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_maya_khoury_20261019",
+    "coach_id": "cch_maya_khoury",
+    "branch_id": "br_rak",
+    "date": "2026-10-19",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_sergio_lima_20261006",
+    "coach_id": "cch_sergio_lima",
+    "branch_id": "br_rak",
+    "date": "2026-10-06",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_sergio_lima_20261007",
+    "coach_id": "cch_sergio_lima",
+    "branch_id": "br_rak",
+    "date": "2026-10-07",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_sergio_lima_20261008",
+    "coach_id": "cch_sergio_lima",
+    "branch_id": "br_rak",
+    "date": "2026-10-08",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_sergio_lima_20261009",
+    "coach_id": "cch_sergio_lima",
+    "branch_id": "br_rak",
+    "date": "2026-10-09",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_sergio_lima_20261010",
+    "coach_id": "cch_sergio_lima",
+    "branch_id": "br_rak",
+    "date": "2026-10-10",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_sergio_lima_20261011",
+    "coach_id": "cch_sergio_lima",
+    "branch_id": "br_rak",
+    "date": "2026-10-11",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_sergio_lima_20261012",
+    "coach_id": "cch_sergio_lima",
+    "branch_id": "br_rak",
+    "date": "2026-10-12",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_sergio_lima_20261013",
+    "coach_id": "cch_sergio_lima",
+    "branch_id": "br_rak",
+    "date": "2026-10-13",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_sergio_lima_20261014",
+    "coach_id": "cch_sergio_lima",
+    "branch_id": "br_rak",
+    "date": "2026-10-14",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_sergio_lima_20261015",
+    "coach_id": "cch_sergio_lima",
+    "branch_id": "br_rak",
+    "date": "2026-10-15",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_sergio_lima_20261016",
+    "coach_id": "cch_sergio_lima",
+    "branch_id": "br_rak",
+    "date": "2026-10-16",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_sergio_lima_20261018",
+    "coach_id": "cch_sergio_lima",
+    "branch_id": "br_rak",
+    "date": "2026-10-18",
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_sergio_lima_20261019",
+    "coach_id": "cch_sergio_lima",
+    "branch_id": "br_rak",
+    "date": "2026-10-19",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_khalid_al_mazrouei_20261005",
+    "coach_id": "cch_khalid_al_mazrouei",
+    "branch_id": "br_rak",
+    "date": "2026-10-05",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_khalid_al_mazrouei_20261006",
+    "coach_id": "cch_khalid_al_mazrouei",
+    "branch_id": "br_rak",
+    "date": "2026-10-06",
+    "start_time": "07:00",
+    "end_time": "11:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_khalid_al_mazrouei_20261007",
+    "coach_id": "cch_khalid_al_mazrouei",
+    "branch_id": "br_rak",
+    "date": "2026-10-07",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_khalid_al_mazrouei_20261008",
+    "coach_id": "cch_khalid_al_mazrouei",
+    "branch_id": "br_rak",
+    "date": "2026-10-08",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_khalid_al_mazrouei_20261009",
+    "coach_id": "cch_khalid_al_mazrouei",
+    "branch_id": "br_rak",
+    "date": "2026-10-09",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_khalid_al_mazrouei_20261011",
+    "coach_id": "cch_khalid_al_mazrouei",
+    "branch_id": "br_rak",
+    "date": "2026-10-11",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_khalid_al_mazrouei_20261013",
+    "coach_id": "cch_khalid_al_mazrouei",
+    "branch_id": "br_rak",
+    "date": "2026-10-13",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_khalid_al_mazrouei_20261014",
+    "coach_id": "cch_khalid_al_mazrouei",
+    "branch_id": "br_rak",
+    "date": "2026-10-14",
+    "start_time": "06:00",
+    "end_time": "10:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_khalid_al_mazrouei_20261015",
+    "coach_id": "cch_khalid_al_mazrouei",
+    "branch_id": "br_rak",
+    "date": "2026-10-15",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_khalid_al_mazrouei_20261016",
+    "coach_id": "cch_khalid_al_mazrouei",
+    "branch_id": "br_rak",
+    "date": "2026-10-16",
+    "start_time": "16:00",
+    "end_time": "20:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_khalid_al_mazrouei_20261017",
+    "coach_id": "cch_khalid_al_mazrouei",
+    "branch_id": "br_rak",
+    "date": "2026-10-17",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_khalid_al_mazrouei_20261018",
+    "coach_id": "cch_khalid_al_mazrouei",
+    "branch_id": "br_rak",
+    "date": "2026-10-18",
+    "start_time": "19:00",
+    "end_time": "23:00",
+    "status": "available"
+  },
+  {
+    "id": "csch_khalid_al_mazrouei_20261019",
+    "coach_id": "cch_khalid_al_mazrouei",
+    "branch_id": "br_rak",
+    "date": "2026-10-19",
+    "start_time": "18:00",
+    "end_time": "22:00",
+    "status": "booked"
+  }
+]
