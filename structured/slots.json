@@ -52069,7 +52069,7 @@
     "date": "2026-10-13",
     "start_time": "07:00",
     "duration_min": 60,
-    "status": "available",
+    "status": "booked",
     "price_aed": 240,
     "version": 1
   },
@@ -54379,7 +54379,7 @@
     "date": "2026-10-13",
     "start_time": "07:00",
     "duration_min": 60,
-    "status": "available",
+    "status": "booked",
     "price_aed": 190,
     "version": 1
   },
@@ -58999,7 +58999,7 @@
     "date": "2026-10-13",
     "start_time": "07:00",
     "duration_min": 60,
-    "status": "available",
+    "status": "booked",
     "price_aed": 200,
     "version": 1
   },
@@ -61309,7 +61309,7 @@
     "date": "2026-10-13",
     "start_time": "07:00",
     "duration_min": 60,
-    "status": "available",
+    "status": "booked",
     "price_aed": 200,
     "version": 1
   },

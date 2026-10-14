@@ -1752,7 +1752,7 @@
     "date": "2026-10-13",
     "start_time": "16:00",
     "end_time": "20:00",
-    "status": "available"
+    "status": "booked"
   },
   {
     "id": "csch_pablo_ortega_20261014",
@@ -1770,7 +1770,7 @@
     "date": "2026-10-15",
     "start_time": "16:00",
     "end_time": "20:00",
-    "status": "available"
+    "status": "booked"
   },
   {
     "id": "csch_pablo_ortega_20261016",
