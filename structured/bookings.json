@@ -40008,5 +40008,47 @@
     "status": "confirmed",
     "created_at": "2026-10-12T09:18:34Z",
     "duration_min": 60
+  },
+  {
+    "id": "bkg_04002",
+    "slot_ids": [
+      "slot_yas_cc04_20261015_2100"
+    ],
+    "user_id": "usr_6767",
+    "status": "confirmed",
+    "created_at": "2026-10-14T08:03:22Z",
+    "duration_min": 60
+  },
+  {
+    "id": "bkg_04003",
+    "slot_ids": [
+      "slot_yas_cc05_20261015_1800"
+    ],
+    "user_id": "usr_6767",
+    "status": "confirmed",
+    "created_at": "2026-10-14T08:08:00Z",
+    "duration_min": 60
+  },
+  {
+    "id": "bkg_04004",
+    "slot_ids": [
+      "slot_yas_sc01_20261015_1600",
+      "slot_yas_sc01_20261015_1700"
+    ],
+    "user_id": "usr_6767",
+    "status": "confirmed",
+    "created_at": "2026-10-14T08:15:42Z",
+    "duration_min": 120
+  },
+  {
+    "id": "bkg_04005",
+    "slot_ids": [
+      "slot_yas_sc02_20261016_1600",
+      "slot_yas_sc02_20261016_1700"
+    ],
+    "user_id": "usr_6767",
+    "status": "confirmed",
+    "created_at": "2026-10-14T08:17:42Z",
+    "duration_min": 120
   }
 ]

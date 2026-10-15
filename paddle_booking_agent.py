@@ -230,40 +230,59 @@ def checkCourts() -> str:
     return "\n".join(court)
 
 @tool
-def checkCoaches() -> str:
+def checkCoaches(branch_id: str = "") -> str:
     """Check coaches and their details"""
     allCoaches = readCoaches()
 
+    if branch_id != "":
+        branch_id = toBranchId(branch_id)
+
     coach = []
     for c in allCoaches:
+        if branch_id != "" and c['branch_id'] != branch_id:
+            continue
+
         coach.append(
             f"ID: {c['id']}, " 
             f"Name: {c['name']}, "
             f"Branch ID: {c['branch_id']}, "
-            f"Bio: {c['bio']}, "
             f"Specialties: {c['specialties']}, "
             f"Languages: {c['languages']}, "
             f"Level Focus: {c['level_focus']}, "
             f"Experience: {c['years_experience']} years, "
             f"Rate Per Hour: {c['rate_per_hour_aed']} AED, "
         )
+    if not coach:
+        return f"No coaches found."
     return "\n".join(coach)
 
 @tool
+def getCoachDetails(coachId: str) -> str:
+    """Get the full bio of one coach, only when the user asks about a specific coach."""
+
+    for c in readCoaches():
+        if c['id'] == coachId:
+            return f"{c['name']}: {c['bio']}"
+    return f"No coach found with this ID."
+
+@tool
 def checkCoachSchedule(coachId: str) -> str:
-    """Read the schedule of different coaches"""
+    """Read the schedule of different coaches to show upcoming available sessions."""
     allSchedules = readCoachSchedules()
+    today = datetime.now().strftime("%Y-%m-%d")     
 
     schedules = []
     for s in allSchedules:
-        if s['coach_id'] == coachId and s['status'] == "available":
+        if s['coach_id'] == coachId and s['status'] == "available" and s['date'] >= today:
             schedules.append(
+                f"Schedule ID: {s['id']}, "
                 f"Date: {s['date']}, "
                 f"Start time: {s['start_time']}, "
                 f"End time: {s['end_time']}, "
                 f"Branch ID: {s['branch_id']}, "
-                f"Date: {s['date']}"
             )
+    if not schedules:
+        return f"No upcoming available sessions found."
     return "\n".join(schedules)
 
 @tool
@@ -271,6 +290,10 @@ def bookCoach(coachId: str, date: str) -> str:
     """Book a coach for the current user. 
     Only book a coach when the user confirms the coach's name and agreed to the rate per hour price. 
     This books the whole session from start time until end time."""
+    
+    today = datetime.now().strftime("%Y-%m-%d")
+    if date < today:
+        return f"That date has already passed. Please choose an upcoming date."
     allSchedules = readCoachSchedules()
 
     schedule = None
@@ -281,6 +304,8 @@ def bookCoach(coachId: str, date: str) -> str:
     
     if schedule is None:
         return "Coach has no available sessions on this date."
+    if schedule['status'] != "available":
+        return f"Sorry, that is already booked."
     
     schedule['status'] = "booked"
     saveSchedules(allSchedules)
@@ -292,36 +317,78 @@ def bookCoach(coachId: str, date: str) -> str:
     )
 
 @tool
-def checkSlots(branch_id: str, date: str) -> str:
-    """Show available slots/bookings for a branch on a specific date."""
+def checkSlots(branch_id: str, date: str, fromTime: str = "00:00") -> str:
+    """Show available slots/bookings for a branch on one date, grouped by court."""
     branch_id = toBranchId(branch_id)
-    allSlots = readSlots()
 
-    availableSlots = []
-    for s in allSlots:
-        if s["branch_id"] == branch_id and s["date"] == date and s["status"] == "available":
-            availableSlots.append(f"Slot ID: {s['id']}, Court: {s['court_id']} at {s['start_time']} - price: {s['price_aed']} AED")
-    return "\n".join(availableSlots)
+    today = datetime.now().strftime("%Y-%m-%d")
+    nowTime = datetime.now().strftime("%H:%M")
+
+    if date < today:
+        return f"This data has passed. Bookings can only be made for today or later."
+
+    courtNames = {}
+    for c in readCourts():
+        courtNames[c['id']] = f"{c['name']} ({c['code']}, {c['type']})"
+
+    byCourt = {}
+    for s in readSlots():
+        if s['branch_id'] == branch_id and s['date'] == date and s['status'] == "available":
+            if date == today and s['start_time'] <= nowTime:
+                continue
+            if s['start_time'] < fromTime:
+                continue
+            courtName = courtNames.get(s['court_id'], s['court_id'])
+            if courtName not in byCourt:
+                byCourt[courtName] = []
+            byCourt[courtName].append(f"{s['start_time']} {s['price_aed']} AED [{s['id']}]")
+    
+    if not byCourt:
+        return f"No available slots at this branch on this date."
+
+    lines = []
+    for courtName, times in byCourt.items():
+        lines.append(f"{courtName}: " + ", ".join(times))
+    return "\n".join(lines)
 
 @tool
-def bookCourt(slotId: str) -> str:
-    """Book a court slot for the current user. 
+def bookCourt(slotIds: list[str]) -> str:
+    """Book one or more court slots for the current user as one booking. 
     Only call this after the user has cofirmed the court, date, time and price. 
     """
     allSlots = readSlots()
+    today = datetime.now().strftime("%Y-%m-%d")
+    nowTime = datetime.now().strftime("%H:%M")
 
-    slot = None
-    for s in allSlots:
-        if s["id"] == slotId:
-            slot = s
-            break
-    if slot is None:
-        return f"No slot found with this ID."
+    chosenSlots = []
+
+    for slotId in slotIds:
+        slot = None
+        for s in allSlots:
+            if s['id'] == slotId:
+                slot = s
+                break
+
+        if slot is None:
+            return f"No slot found with this ID."
+        if slot in chosenSlots:
+            return f"Slot {slotId} was sent twice"    
+        if slot['status'] != "available":
+            return f"Sorry that slot is already booked."
+        if slot['date']  < today or (slot['date'] == today and slot ['start_time'] <= nowTime):
+            return "Sorry, that slot has already passed."
+
+        chosenSlots.append(slot)
+    for slot in chosenSlots:
+        if slot['court_id'] != chosenSlots[0]['court_id'] or slot['date'] != chosenSlots[0]['date']:
+            return "All slots must be on the same court in the same day."
     
-    if slot['status'] != "available":
-        return f"Sorry that slot is already booked."
-    
-    slot["status"] = "booked"
+    totalPrice = 0
+    times = []
+    for slot in chosenSlots:
+        slot["status"] = "booked"
+        totalPrice = totalPrice + slot['price_aed']
+        times.append(slot['start_time'])
     saveSlots(allSlots)
 
     allBookings = readBookings()
@@ -332,18 +399,19 @@ def bookCourt(slotId: str) -> str:
 
     allBookings.append({
         "id": new_id,
-        "slot_ids": [slotId],
+        "slot_ids": slotIds,
         "user_id": userId,
         "status": "confirmed",
         "created_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "duration_min": slot["duration_min"],
+        "duration_min": 60 * len(chosenSlots),
     })
     saveBookings(allBookings)
 
     return (
         f"Booked! BookingID: {new_id}. "
-        f"Court {slot['court_id']} on {slot['date']} at {slot['start_time']}, "
-        f"Price {slot['price_aed']} AED"
+        f"Court {chosenSlots[0]['court_id']} on {chosenSlots[0]['date']}, "
+        f"Start times: {', '.join(times)} ({len(chosenSlots)} hour(s)). "
+        f"Total price: {totalPrice} AED"
     )
 
 @tool
@@ -397,6 +465,7 @@ agent = create_agent(
         checkPackages,
         checkClasses,
         checkPriceRules,
+        getCoachDetails,
         ],
     system_prompt=(
         "You are a friendly paddle booking assistant for different paddle tennis clubs across 8 different branches in the UAE. "
@@ -404,6 +473,8 @@ agent = create_agent(
         "Only display the available slots when the user chooses a date and branch. "
         "If policy sections disagree, mention both rules and suggest confirming with the branch. "
         "Do not mention any negative feedback or reviews about the club. "
+        "When booking more than 1 hour, call bookCourt once with all slot ids in the list. Never call it once per slot. "
+        "Before calling bookCourt or bookCoach, repeat the exact court or coach, branch, date, time, price, and ask if you should book it. "
     )
 )
 
