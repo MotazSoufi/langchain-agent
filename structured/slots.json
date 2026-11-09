@@ -20202,7 +20202,7 @@
     "date": "2026-10-16",
     "start_time": "08:00",
     "duration_min": 60,
-    "status": "available",
+    "status": "booked",
     "price_aed": 180,
     "version": 1
   },
@@ -20213,7 +20213,7 @@
     "date": "2026-10-16",
     "start_time": "09:00",
     "duration_min": 60,
-    "status": "available",
+    "status": "booked",
     "price_aed": 180,
     "version": 1
   },
@@ -22512,7 +22512,7 @@
     "date": "2026-10-16",
     "start_time": "08:00",
     "duration_min": 60,
-    "status": "available",
+    "status": "booked",
     "price_aed": 180,
     "version": 1
   },
@@ -22523,7 +22523,7 @@
     "date": "2026-10-16",
     "start_time": "09:00",
     "duration_min": 60,
-    "status": "available",
+    "status": "booked",
     "price_aed": 180,
     "version": 1
   },
@@ -36636,7 +36636,7 @@
     "date": "2026-10-17",
     "start_time": "22:00",
     "duration_min": 60,
-    "status": "available",
+    "status": "booked",
     "price_aed": 175,
     "version": 1
   },
@@ -38715,7 +38715,7 @@
     "date": "2026-10-16",
     "start_time": "15:00",
     "duration_min": 60,
-    "status": "available",
+    "status": "booked",
     "price_aed": 205,
     "version": 1
   },
@@ -38726,7 +38726,7 @@
     "date": "2026-10-16",
     "start_time": "16:00",
     "duration_min": 60,
-    "status": "available",
+    "status": "booked",
     "price_aed": 205,
     "version": 1
   },
@@ -38737,7 +38737,7 @@
     "date": "2026-10-16",
     "start_time": "17:00",
     "duration_min": 60,
-    "status": "available",
+    "status": "booked",
     "price_aed": 205,
     "version": 1
   },
@@ -38946,7 +38946,7 @@
     "date": "2026-10-17",
     "start_time": "22:00",
     "duration_min": 60,
-    "status": "available",
+    "status": "booked",
     "price_aed": 195,
     "version": 1
   },

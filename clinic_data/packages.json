@@ -1,0 +1,368 @@
+[
+  {
+    "id": "pkg_laser_underarms_6",
+    "name": "Laser Underarms - 6 Sessions",
+    "type": "package",
+    "billing": "one_time",
+    "branch_ids": [
+      "br_jumeirah",
+      "br_marina",
+      "br_abudhabi",
+      "br_sharjah"
+    ],
+    "items": [
+      {
+        "service_id": "svc_laser_underarms",
+        "sessions": 6
+      }
+    ],
+    "price_aed": 1200,
+    "regular_price_aed": 1500,
+    "savings_aed": 300,
+    "valid_from": "2026-01-01",
+    "valid_until": "2026-12-31",
+    "use_within_days": 365,
+    "conditions": "Sessions at least 28 days apart. Consultation required before the first session. Non-refundable after the first session.",
+    "description": "Six laser hair removal sessions for the underarms, enough for most clients to see long-lasting results."
+  },
+  {
+    "id": "pkg_laser_full_legs_6",
+    "name": "Laser Full Legs - 6 Sessions",
+    "type": "package",
+    "billing": "one_time",
+    "branch_ids": [
+      "br_jumeirah",
+      "br_marina",
+      "br_abudhabi",
+      "br_sharjah"
+    ],
+    "items": [
+      {
+        "service_id": "svc_laser_full_legs",
+        "sessions": 6
+      }
+    ],
+    "price_aed": 4500,
+    "regular_price_aed": 5400,
+    "savings_aed": 900,
+    "valid_from": "2026-01-01",
+    "valid_until": "2026-12-31",
+    "use_within_days": 365,
+    "conditions": "Sessions at least 28 days apart. Consultation required before the first session. Non-refundable after the first session.",
+    "description": "Six laser hair removal sessions for the full legs."
+  },
+  {
+    "id": "pkg_laser_full_body_6",
+    "name": "Laser Full Body - 6 Sessions",
+    "type": "package",
+    "billing": "one_time",
+    "branch_ids": [
+      "br_jumeirah",
+      "br_marina",
+      "br_abudhabi",
+      "br_sharjah"
+    ],
+    "items": [
+      {
+        "service_id": "svc_laser_full_body",
+        "sessions": 6
+      }
+    ],
+    "price_aed": 12000,
+    "regular_price_aed": 15000,
+    "savings_aed": 3000,
+    "valid_from": "2026-01-01",
+    "valid_until": "2026-12-31",
+    "use_within_days": 450,
+    "conditions": "Sessions at least 35 days apart. Ages 18+. Consultation required before the first session.",
+    "description": "Six full body laser hair removal sessions (face not included)."
+  },
+  {
+    "id": "pkg_profhilo_2",
+    "name": "Profhilo Course - 2 Sessions",
+    "type": "package",
+    "billing": "one_time",
+    "branch_ids": [
+      "br_jumeirah",
+      "br_marina",
+      "br_abudhabi",
+      "br_sharjah"
+    ],
+    "items": [
+      {
+        "service_id": "svc_profhilo",
+        "sessions": 2
+      }
+    ],
+    "price_aed": 3200,
+    "regular_price_aed": 3600,
+    "savings_aed": 400,
+    "valid_from": "2026-01-01",
+    "valid_until": "2026-12-31",
+    "use_within_days": 90,
+    "conditions": "Sessions 30 days apart. Ages 25+. Doctor consultation required.",
+    "description": "The recommended Profhilo course of two sessions, one month apart."
+  },
+  {
+    "id": "pkg_hydrafacial_4",
+    "name": "HydraFacial - 4 Sessions",
+    "type": "package",
+    "billing": "one_time",
+    "branch_ids": [
+      "br_jumeirah",
+      "br_marina",
+      "br_abudhabi",
+      "br_sharjah",
+      "br_rak"
+    ],
+    "items": [
+      {
+        "service_id": "svc_hydrafacial",
+        "sessions": 4
+      }
+    ],
+    "price_aed": 2600,
+    "regular_price_aed": 3000,
+    "savings_aed": 400,
+    "valid_from": "2026-01-01",
+    "valid_until": "2026-12-31",
+    "use_within_days": 180,
+    "conditions": "One session every 3-4 weeks recommended. Can be shared with one family member.",
+    "description": "Four HydraFacials for a consistently glowing complexion."
+  },
+  {
+    "id": "pkg_prp_hair_4",
+    "name": "PRP Hair Course - 4 Sessions",
+    "type": "package",
+    "billing": "one_time",
+    "branch_ids": [
+      "br_jumeirah",
+      "br_abudhabi",
+      "br_sharjah"
+    ],
+    "items": [
+      {
+        "service_id": "svc_prp_hair",
+        "sessions": 4
+      }
+    ],
+    "price_aed": 5000,
+    "regular_price_aed": 6000,
+    "savings_aed": 1000,
+    "valid_from": "2026-01-01",
+    "valid_until": "2026-12-31",
+    "use_within_days": 180,
+    "conditions": "Sessions 4 weeks apart. Doctor consultation required. Blood test may be requested.",
+    "description": "A full course of four PRP treatments for thinning hair."
+  },
+  {
+    "id": "bnd_bridal_glow",
+    "name": "Bridal Glow Bundle",
+    "type": "bundle",
+    "billing": "one_time",
+    "branch_ids": [
+      "br_jumeirah",
+      "br_marina",
+      "br_abudhabi",
+      "br_sharjah",
+      "br_rak"
+    ],
+    "items": [
+      {
+        "service_id": "svc_hydrafacial",
+        "sessions": 1
+      },
+      {
+        "service_id": "svc_lash_lift",
+        "sessions": 1
+      },
+      {
+        "service_id": "svc_brow_lamination",
+        "sessions": 1
+      },
+      {
+        "service_id": "svc_manicure",
+        "sessions": 1
+      },
+      {
+        "service_id": "svc_pedicure",
+        "sessions": 1
+      }
+    ],
+    "price_aed": 1250,
+    "regular_price_aed": 1630,
+    "savings_aed": 380,
+    "valid_from": "2026-01-01",
+    "valid_until": "2026-12-31",
+    "use_within_days": 60,
+    "conditions": "All services must be booked within 60 days of purchase. Best booked 3-7 days before the wedding.",
+    "description": "Everything you need before the big day: HydraFacial, lash lift, brow lamination, manicure and pedicure."
+  },
+  {
+    "id": "bnd_mens_grooming",
+    "name": "Men's Grooming Bundle",
+    "type": "bundle",
+    "billing": "one_time",
+    "branch_ids": [
+      "br_jumeirah",
+      "br_marina",
+      "br_abudhabi",
+      "br_rak"
+    ],
+    "items": [
+      {
+        "service_id": "svc_mens_facial",
+        "sessions": 2
+      },
+      {
+        "service_id": "svc_body_massage",
+        "sessions": 1
+      }
+    ],
+    "price_aed": 850,
+    "regular_price_aed": 1040,
+    "savings_aed": 190,
+    "valid_from": "2026-01-01",
+    "valid_until": "2026-12-31",
+    "use_within_days": 90,
+    "conditions": "For male clients only. Not available at the ladies-only Sharjah clinic.",
+    "description": "Two grooming facials and a lymphatic drainage massage."
+  },
+  {
+    "id": "bnd_summer_glow",
+    "name": "Summer Glow Bundle",
+    "type": "bundle",
+    "billing": "one_time",
+    "branch_ids": [
+      "br_jumeirah",
+      "br_marina",
+      "br_abudhabi",
+      "br_sharjah",
+      "br_rak"
+    ],
+    "items": [
+      {
+        "service_id": "svc_classic_facial",
+        "sessions": 1
+      },
+      {
+        "service_id": "svc_body_massage",
+        "sessions": 1
+      },
+      {
+        "service_id": "svc_pedicure",
+        "sessions": 1
+      }
+    ],
+    "price_aed": 700,
+    "regular_price_aed": 950,
+    "savings_aed": 250,
+    "valid_from": "2026-06-01",
+    "valid_until": "2026-09-30",
+    "use_within_days": 60,
+    "conditions": "Summer offer, purchase between June and September only.",
+    "description": "A seasonal bundle with a classic facial, massage and spa pedicure."
+  },
+  {
+    "id": "bnd_new_year_refresh",
+    "name": "New Year Refresh Bundle",
+    "type": "bundle",
+    "billing": "one_time",
+    "branch_ids": [
+      "br_jumeirah",
+      "br_marina",
+      "br_abudhabi",
+      "br_sharjah",
+      "br_rak"
+    ],
+    "items": [
+      {
+        "service_id": "svc_skin_analysis",
+        "sessions": 1
+      },
+      {
+        "service_id": "svc_chemical_peel",
+        "sessions": 1
+      },
+      {
+        "service_id": "svc_hydrafacial",
+        "sessions": 1
+      }
+    ],
+    "price_aed": 1100,
+    "regular_price_aed": 1350,
+    "savings_aed": 250,
+    "valid_from": "2026-12-01",
+    "valid_until": "2027-01-31",
+    "use_within_days": 90,
+    "conditions": "Seasonal offer for December and January only.",
+    "description": "Start the year with a skin analysis, chemical peel and HydraFacial."
+  },
+  {
+    "id": "mem_glow_monthly",
+    "name": "Glow Membership",
+    "type": "membership",
+    "billing": "monthly",
+    "branch_ids": [
+      "br_jumeirah",
+      "br_marina",
+      "br_abudhabi",
+      "br_sharjah",
+      "br_rak"
+    ],
+    "items": [
+      {
+        "service_id": "svc_classic_facial",
+        "sessions": 1
+      }
+    ],
+    "price_aed": 299,
+    "perks": [
+      "1 Classic Facial per month",
+      "10% off all facials and beauty services",
+      "Priority booking"
+    ],
+    "min_months": 6,
+    "valid_from": "2026-01-01",
+    "valid_until": "2026-12-31",
+    "use_within_days": 30,
+    "conditions": "Minimum 6 months. Unused monthly facial does not roll over. Cancel with 30 days notice.",
+    "description": "One classic facial every month plus member discounts."
+  },
+  {
+    "id": "mem_vip_monthly",
+    "name": "VIP Aesthetics Membership",
+    "type": "membership",
+    "billing": "monthly",
+    "branch_ids": [
+      "br_jumeirah",
+      "br_marina",
+      "br_abudhabi",
+      "br_sharjah",
+      "br_rak"
+    ],
+    "items": [
+      {
+        "service_id": "svc_hydrafacial",
+        "sessions": 1
+      },
+      {
+        "service_id": "svc_skin_analysis",
+        "sessions": 1
+      }
+    ],
+    "price_aed": 799,
+    "perks": [
+      "1 HydraFacial per month",
+      "Monthly skin analysis with a doctor",
+      "15% off injectables and laser",
+      "Free valet parking at Jumeirah"
+    ],
+    "min_months": 12,
+    "valid_from": "2026-01-01",
+    "valid_until": "2026-12-31",
+    "use_within_days": 30,
+    "conditions": "Minimum 12 months. Discounts do not apply to other packages. Cancel with 30 days notice.",
+    "description": "A monthly HydraFacial, doctor skin reviews and discounts on medical treatments."
+  }
+]

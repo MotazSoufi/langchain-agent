@@ -1,0 +1,77 @@
+[
+  {
+    "id": "pol_booking",
+    "title": "Booking Policy",
+    "body": "1. How to Book\nAppointments can be booked through the Velora app, the website, by phone, or at any clinic reception. Every appointment is booked with a specific practitioner at a specific branch.\n\n2. Booking Window\nAppointments can be booked up to 14 days in advance. Same-day appointments are allowed if a slot is available at least 30 minutes from the time of booking.\n\n3. Appointment Length\nAppointments are scheduled in 30-minute slots. Treatments longer than 30 minutes use several consecutive slots with the same practitioner. Practitioners take a lunch break between 13:00 and 14:00, and no appointments are scheduled during this time.\n\n4. Booking Limits\nGroup bookings of more than 3 people must be arranged by phone with the branch.\n\n5. Confirmation\nA confirmation with the booking reference, practitioner, branch, date, time and price is sent after every booking. Clients should check these details and contact the clinic if anything is incorrect."
+  },
+  {
+    "id": "pol_cancellation",
+    "title": "Cancellation and Rescheduling Policy",
+    "body": "1. Free Cancellation\nAppointments can be cancelled or rescheduled free of charge up to 24 hours before the start time.\n\n2. Late Cancellation\nCancellations made less than 24 hours before the appointment are charged 50% of the treatment price. For medical treatments such as injectables and laser, the late cancellation fee is capped at 500 AED.\n\n3. No-Shows\nClients who do not attend without notice are charged 100% of the treatment price. After two no-shows within six months, future bookings require full prepayment.\n\n4. Package Sessions\nIf a package session is cancelled late or missed, that session is deducted from the package and cannot be recovered.\n\n5. Clinic Cancellations\nIf the clinic needs to cancel an appointment, for example because a practitioner is unwell, the client is offered a new time or a full refund of any prepayment."
+  },
+  {
+    "id": "pol_late_arrival",
+    "title": "Late Arrival Policy",
+    "body": "1. Grace Period\nClients arriving up to 10 minutes late will still receive their treatment, but it may be shortened so the next client is not delayed. The full price applies.\n\n2. Arriving More Than 10 Minutes Late\nClients arriving more than 10 minutes late may need to be rescheduled, and the late cancellation fee may apply.\n\n3. Medical Treatments\nFor injectables and laser treatments, the practitioner may refuse to perform a shortened treatment for safety reasons. In this case the appointment is rescheduled."
+  },
+  {
+    "id": "pol_consultation",
+    "title": "Consultation Policy",
+    "body": "1. When a Consultation Is Required\nA consultation is required before any treatment marked as requiring consultation, including all injectables, laser treatments, chemical peels, microneedling, CoolSculpting, PRP and IV drips.\n\n2. Cost\nThe Skin Analysis Consultation is free of charge. A consultation is valid for 6 months for the treatments discussed during it.\n\n3. Who Performs It\nConsultations are performed by a doctor. At the Al Hamra (Ras Al Khaimah) clinic, consultations are only available on days when the visiting doctor is present, currently Tuesdays and Thursdays.\n\n4. Same-Day Treatment\nWhere the doctor confirms the treatment is suitable, some treatments may be performed on the same day as the consultation if a slot is available. Lip and cheek fillers always require a separate appointment at least 24 hours after the consultation.\n\n5. Right to Refuse\nPractitioners may decline to perform any treatment they consider unsuitable or unsafe for the client. In this case no treatment fee is charged."
+  },
+  {
+    "id": "pol_age",
+    "title": "Age Requirements Policy",
+    "body": "1. Minimum Ages\nEach treatment has a minimum age, shown on the service. Injectables, chemical peels, microneedling, laser pigmentation and tattoo removal, full body laser, CoolSculpting, PRP and IV drips are for clients aged 18 and over. Laser hair removal on the underarms and legs is available from age 16. Profhilo is for clients aged 25 and over.\n\n2. Clients Under 18\nClients under 18 must be accompanied by a parent or legal guardian, who must sign a consent form before the treatment. Clients under 18 cannot receive any injectable treatment, even with parental consent.\n\n3. Proof of Age\nThe clinic may ask for an Emirates ID or passport to confirm age before medical treatments."
+  },
+  {
+    "id": "pol_ladies_only",
+    "title": "Ladies-Only Clinic Policy",
+    "body": "1. Ladies-Only Branch\nVelora Ladies Clinic Al Majaz (Sharjah) is a ladies-only clinic. Only female clients are treated and all practitioners at this branch are female.\n\n2. Children\nBoys under 10 may accompany their mother in the waiting area but may not enter treatment rooms.\n\n3. Other Branches\nAll other branches treat both male and female clients. Clients may request a practitioner of a specific gender when booking, subject to availability."
+  },
+  {
+    "id": "pol_medical_safety",
+    "title": "Medical Safety and Suitability Policy",
+    "body": "1. Health Questionnaire\nAll clients must complete a health questionnaire before their first treatment and update it if their health, medication or pregnancy status changes.\n\n2. Pregnancy and Breastfeeding\nInjectables, chemical peels, microneedling, laser treatments, CoolSculpting and IV drips are not performed during pregnancy or breastfeeding. Facials and beauty services may be adapted on request.\n\n3. Medication and Conditions\nClients must tell their practitioner about blood thinners, isotretinoin, photosensitising medication, recent surgery, skin infections, cold sores and any chronic conditions. Some treatments cannot be performed with these conditions.\n\n4. Sun Exposure\nLaser treatments and chemical peels cannot be performed on tanned or recently sun-exposed skin. Clients should avoid sun exposure for 2 weeks before and after these treatments.\n\n5. Medical Advice\nClinic staff and the Velora digital assistant cannot give personal medical advice. Questions about suitability, risks or side effects must be discussed with a doctor during a consultation."
+  },
+  {
+    "id": "pol_treatment_intervals",
+    "title": "Treatment Interval Policy",
+    "body": "1. Minimum Time Between Sessions\nEach treatment has a minimum number of days that must pass before it can be repeated. This protects the skin and gives results time to develop.\n\n2. Common Intervals\nBotox can be repeated after 90 days. Dermal fillers can be repeated after 180 days. Laser hair removal sessions must be at least 28 days apart (35 days for full body). Chemical peels and microneedling must be at least 28 days apart. Profhilo sessions are 30 days apart.\n\n3. Booking Too Early\nAppointments booked before the minimum interval has passed will be cancelled by the clinic and the client asked to rebook. Package sessions follow the same intervals.\n\n4. Top-Ups\nA free Botox review is offered 14 days after treatment. Any small top-up at this review is free and does not reset the 90-day interval."
+  },
+  {
+    "id": "pol_payment",
+    "title": "Payment Policy",
+    "body": "1. Payment Methods\nThe clinic accepts credit and debit cards, Apple Pay, Google Pay and cash. Instalment plans through Tabby are available for packages over 1,000 AED.\n\n2. When Payment Is Taken\nSingle treatments are paid at the clinic after the appointment. Packages and bundles are paid in full at purchase. Memberships are charged monthly on the same date as the first payment.\n\n3. Prices\nPrices are in UAE dirhams and include 5% VAT. Prices shown at the time of booking are honoured even if the price list changes before the appointment.\n\n4. Deposits\nA deposit of 20% is required when booking treatments priced at 2,000 AED or more. The deposit is deducted from the final price."
+  },
+  {
+    "id": "pol_refunds",
+    "title": "Refund Policy",
+    "body": "1. Single Treatments\nTreatments that have been performed are not refundable. If a client is unhappy with a result, they should contact the clinic within 14 days for a free review.\n\n2. Packages and Bundles\nUnused packages can be refunded within 14 days of purchase if no session has been used. After the first session is used, packages are non-refundable but can be transferred to a family member once.\n\n3. Memberships\nMemberships cannot be refunded. They can be cancelled with 30 days notice after the minimum membership period has ended.\n\n4. Deposits\nDeposits are refunded if the appointment is cancelled at least 24 hours in advance.\n\n5. Refund Method\nRefunds are made to the original payment method within 7 to 14 working days."
+  },
+  {
+    "id": "pol_packages",
+    "title": "Packages and Memberships Policy",
+    "body": "1. Using Packages\nPackage sessions must be used within the validity period stated on the package, counted from the date of purchase. Unused sessions expire at the end of this period.\n\n2. Branches\nPackages can be used at any branch that offers all of the included services.\n\n3. Sharing\nPackages are personal unless the conditions say they can be shared. The HydraFacial package can be shared with one family member.\n\n4. Seasonal Offers\nSeasonal bundles can only be purchased during their offer period, but can be used within their validity period after purchase.\n\n5. Memberships\nMonthly membership treatments do not roll over to the next month. Member discounts cannot be combined with other offers or packages."
+  },
+  {
+    "id": "pol_aftercare",
+    "title": "Aftercare Policy",
+    "body": "1. Aftercare Instructions\nWritten aftercare instructions are given after every medical treatment. Following them is important for safe and lasting results.\n\n2. General Advice\nAfter injectables, avoid exercise, saunas and lying down for 4 to 24 hours as advised. After laser and peels, use sunscreen and avoid sun exposure for 2 weeks.\n\n3. Follow-Up\nA free follow-up appointment is available within 14 days after injectables and filler treatments.\n\n4. Emergencies\nIf a client experiences severe pain, swelling, changes in skin colour or signs of infection after a treatment, they should contact the clinic immediately or go to the nearest emergency department."
+  },
+  {
+    "id": "pol_privacy",
+    "title": "Privacy and Medical Records Policy",
+    "body": "1. Medical Records\nHealth questionnaires, consultation notes and treatment records are stored securely and kept confidential in line with UAE health data regulations.\n\n2. Photographs\nBefore and after photos are taken for medical records only. They are never used for marketing without the client's written consent.\n\n3. Sharing Information\nClient information is never shared with third parties except where required by law. Staff will not share a client's appointments or records with anyone else, including family members, without permission.\n\n4. Staff Contact Details\nPractitioners' personal phone numbers and emails are not shared. All communication goes through the clinic's official channels."
+  },
+  {
+    "id": "pol_clinic_conduct",
+    "title": "Clinic Conduct Policy",
+    "body": "1. Arrival\nClients are asked to arrive 10 minutes before their appointment to check in and complete any forms.\n\n2. Children\nChildren under 12 must be supervised at all times and are not allowed in treatment rooms unless they are the client.\n\n3. Respect\nAbusive or inappropriate behaviour towards staff or other clients will not be tolerated and may lead to refusal of service.\n\n4. Mobile Phones\nClients are asked to keep phones on silent in treatment areas. Photography of other clients or staff is not allowed."
+  },
+  {
+    "id": "pol_complaints",
+    "title": "Feedback and Complaints Policy",
+    "body": "1. How to Give Feedback\nFeedback can be given through the app, by email, or to the branch manager. Every client receives a short survey after their appointment.\n\n2. Complaints\nComplaints are acknowledged within 2 working days and resolved within 10 working days.\n\n3. Treatment Results\nIf a client is unhappy with a treatment result, a free review with the practitioner or another doctor is offered within 14 days."
+  }
+]

@@ -40050,5 +40050,43 @@
     "status": "confirmed",
     "created_at": "2026-10-14T08:17:42Z",
     "duration_min": 120
+  },
+  {
+    "id": "bkg_04006",
+    "slot_ids": [
+      "slot_jvc_sc03_20261016_1500",
+      "slot_jvc_sc03_20261016_1600",
+      "slot_jvc_sc03_20261016_1700"
+    ],
+    "user_id": "usr_6767",
+    "status": "confirmed",
+    "created_at": "2026-10-15T07:00:53Z",
+    "duration_min": 180
+  },
+  {
+    "id": "bkg_04007",
+    "slot_ids": [
+      "slot_alquoz_sc02_20261016_0800",
+      "slot_alquoz_sc02_20261016_0900",
+      "slot_alquoz_sc03_20261016_0800",
+      "slot_alquoz_sc03_20261016_0900"
+    ],
+    "user_id": "usr_6767",
+    "status": "confirmed",
+    "created_at": "2026-10-15T07:32:45Z",
+    "duration_min": 240
+  },
+  {
+    "id": "bkg_04008",
+    "slot_ids": [
+      "slot_alquoz_sc02_20261016_0800",
+      "slot_alquoz_sc02_20261016_0900",
+      "slot_alquoz_sc03_20261016_0800",
+      "slot_alquoz_sc03_20261016_0900"
+    ],
+    "user_id": "usr_6767",
+    "status": "confirmed",
+    "created_at": "2026-10-15T07:32:45Z",
+    "duration_min": 240
   }
 ]

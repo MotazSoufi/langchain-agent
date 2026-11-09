@@ -1,0 +1,82 @@
+[
+  {
+    "id": "br_jumeirah",
+    "name": "Velora Clinic Jumeirah",
+    "emirate": "Dubai",
+    "area": "Jumeirah Beach Road",
+    "coordinates": { "lat": 25.2048, "lng": 55.2418 },
+    "phone": "+971-4-555-0101",
+    "ladies_only": false,
+    "room_count": 8,
+    "amenities": ["parking", "valet", "wifi", "private_rooms", "waiting_lounge", "pharmacy"],
+    "opening_hours": {
+      "sun": "09:00-21:00", "mon": "09:00-21:00", "tue": "09:00-21:00", "wed": "09:00-21:00",
+      "thu": "09:00-21:00", "fri": "14:00-21:00", "sat": "10:00-20:00"
+    },
+    "description": "Our flagship clinic on Jumeirah Beach Road, offering the full range of facials, injectables, laser and body treatments. Home to our senior doctors and the largest team of therapists."
+  },
+  {
+    "id": "br_marina",
+    "name": "Velora Clinic Dubai Marina",
+    "emirate": "Dubai",
+    "area": "Dubai Marina Walk",
+    "coordinates": { "lat": 25.0805, "lng": 55.1403 },
+    "phone": "+971-4-555-0202",
+    "ladies_only": false,
+    "room_count": 6,
+    "amenities": ["parking", "wifi", "private_rooms", "waiting_lounge"],
+    "opening_hours": {
+      "sun": "10:00-22:00", "mon": "10:00-22:00", "tue": "10:00-22:00", "wed": "10:00-22:00",
+      "thu": "10:00-22:00", "fri": "14:00-22:00", "sat": "10:00-22:00"
+    },
+    "description": "A modern clinic on Marina Walk with late opening hours, popular for after-work facials, laser hair removal and nail and brow services."
+  },
+  {
+    "id": "br_abudhabi",
+    "name": "Velora Clinic Al Reem Island",
+    "emirate": "Abu Dhabi",
+    "area": "Al Reem Island",
+    "coordinates": { "lat": 24.4995, "lng": 54.4065 },
+    "phone": "+971-2-555-0303",
+    "ladies_only": false,
+    "room_count": 7,
+    "amenities": ["parking", "wifi", "private_rooms", "waiting_lounge", "pharmacy", "prayer_room"],
+    "opening_hours": {
+      "sun": "09:00-21:00", "mon": "09:00-21:00", "tue": "09:00-21:00", "wed": "09:00-21:00",
+      "thu": "09:00-21:00", "fri": "14:00-21:00", "sat": "10:00-20:00"
+    },
+    "description": "Our Abu Dhabi clinic on Al Reem Island, offering facials, injectables, laser treatments and hair loss therapy, with a resident dermatologist on most days."
+  },
+  {
+    "id": "br_sharjah",
+    "name": "Velora Ladies Clinic Al Majaz",
+    "emirate": "Sharjah",
+    "area": "Al Majaz Waterfront",
+    "coordinates": { "lat": 25.3274, "lng": 55.3866 },
+    "phone": "+971-6-555-0404",
+    "ladies_only": true,
+    "room_count": 5,
+    "amenities": ["parking", "wifi", "private_rooms", "waiting_lounge", "prayer_room", "kids_play_area"],
+    "opening_hours": {
+      "sun": "10:00-20:00", "mon": "10:00-20:00", "tue": "10:00-20:00", "wed": "10:00-20:00",
+      "thu": "10:00-20:00", "fri": "closed", "sat": "10:00-20:00"
+    },
+    "description": "A ladies-only clinic with an all-female team of doctors and therapists, offering facials, laser hair removal, injectables and beauty services in a private setting."
+  },
+  {
+    "id": "br_rak",
+    "name": "Velora Clinic Al Hamra",
+    "emirate": "Ras Al Khaimah",
+    "area": "Al Hamra Village",
+    "coordinates": { "lat": 25.6934, "lng": 55.7782 },
+    "phone": "+971-7-555-0505",
+    "ladies_only": false,
+    "room_count": 4,
+    "amenities": ["parking", "wifi", "private_rooms"],
+    "opening_hours": {
+      "sun": "10:00-19:00", "mon": "10:00-19:00", "tue": "10:00-19:00", "wed": "10:00-19:00",
+      "thu": "10:00-19:00", "fri": "closed", "sat": "10:00-18:00"
+    },
+    "description": "Our smallest clinic, in Al Hamra Village, focusing on facials, skin care and beauty services. Injectables are available on doctor visit days only."
+  }
+]

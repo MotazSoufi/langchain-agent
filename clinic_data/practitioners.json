@@ -1,0 +1,687 @@
+[
+  {
+    "id": "prc_sara_haddad",
+    "name": "Dr. Sara Haddad",
+    "role": "doctor",
+    "title": "Consultant Dermatologist",
+    "branch_id": "br_jumeirah",
+    "gender": "female",
+    "languages": [
+      "English",
+      "Arabic",
+      "French"
+    ],
+    "service_ids": [
+      "svc_botox_forehead",
+      "svc_botox_3areas",
+      "svc_lip_filler",
+      "svc_cheek_filler",
+      "svc_profhilo",
+      "svc_laser_pigmentation",
+      "svc_tattoo_removal",
+      "svc_prp_hair",
+      "svc_skin_analysis"
+    ],
+    "years_experience": 15,
+    "working_days": [
+      "sun",
+      "mon",
+      "tue",
+      "wed",
+      "thu"
+    ],
+    "specialties": [
+      "injectables",
+      "pigmentation",
+      "hair loss"
+    ],
+    "bio": "Dr. Sara is our senior dermatologist with 15 years of experience in aesthetic and medical dermatology. She is known for natural-looking injectable results."
+  },
+  {
+    "id": "prc_omar_khalil",
+    "name": "Dr. Omar Khalil",
+    "role": "doctor",
+    "title": "Aesthetic Physician",
+    "branch_id": "br_jumeirah",
+    "gender": "male",
+    "languages": [
+      "English",
+      "Arabic"
+    ],
+    "service_ids": [
+      "svc_botox_forehead",
+      "svc_botox_3areas",
+      "svc_lip_filler",
+      "svc_cheek_filler",
+      "svc_profhilo",
+      "svc_tattoo_removal",
+      "svc_skin_analysis"
+    ],
+    "years_experience": 9,
+    "working_days": [
+      "mon",
+      "tue",
+      "wed",
+      "thu",
+      "sat"
+    ],
+    "specialties": [
+      "injectables",
+      "facial balancing"
+    ],
+    "bio": "Dr. Omar specialises in facial balancing with fillers and anti-wrinkle treatments, with a calm and detailed consultation style."
+  },
+  {
+    "id": "prc_maria_santos",
+    "name": "Maria Santos",
+    "role": "nurse",
+    "title": "Senior Aesthetic Nurse",
+    "branch_id": "br_jumeirah",
+    "gender": "female",
+    "languages": [
+      "English",
+      "Tagalog"
+    ],
+    "service_ids": [
+      "svc_chemical_peel",
+      "svc_microneedling",
+      "svc_laser_underarms",
+      "svc_laser_full_legs",
+      "svc_laser_full_body",
+      "svc_coolsculpting",
+      "svc_iv_drip"
+    ],
+    "years_experience": 11,
+    "working_days": [
+      "sun",
+      "mon",
+      "tue",
+      "wed",
+      "thu"
+    ],
+    "specialties": [
+      "laser",
+      "body contouring",
+      "peels"
+    ],
+    "bio": "Maria has 11 years of experience with laser hair removal, chemical peels and CoolSculpting."
+  },
+  {
+    "id": "prc_layla_mansour",
+    "name": "Layla Mansour",
+    "role": "therapist",
+    "title": "Senior Skin Therapist",
+    "branch_id": "br_jumeirah",
+    "gender": "female",
+    "languages": [
+      "English",
+      "Arabic"
+    ],
+    "service_ids": [
+      "svc_classic_facial",
+      "svc_hydrafacial",
+      "svc_acne_facial",
+      "svc_body_massage",
+      "svc_cellulite"
+    ],
+    "years_experience": 8,
+    "working_days": [
+      "sun",
+      "mon",
+      "tue",
+      "wed",
+      "sat"
+    ],
+    "specialties": [
+      "facials",
+      "acne"
+    ],
+    "bio": "Layla is our lead facialist, specialising in HydraFacials and acne-prone skin."
+  },
+  {
+    "id": "prc_james_carter",
+    "name": "James Carter",
+    "role": "therapist",
+    "title": "Skin & Grooming Therapist",
+    "branch_id": "br_jumeirah",
+    "gender": "male",
+    "languages": [
+      "English"
+    ],
+    "service_ids": [
+      "svc_mens_facial",
+      "svc_classic_facial",
+      "svc_body_massage"
+    ],
+    "years_experience": 5,
+    "working_days": [
+      "tue",
+      "wed",
+      "thu",
+      "fri",
+      "sat"
+    ],
+    "specialties": [
+      "men's grooming",
+      "massage"
+    ],
+    "bio": "James focuses on men's skin care and grooming facials, as well as relaxing massage treatments."
+  },
+  {
+    "id": "prc_ana_lopez",
+    "name": "Ana Lopez",
+    "role": "therapist",
+    "title": "Beauty Therapist",
+    "branch_id": "br_jumeirah",
+    "gender": "female",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "service_ids": [
+      "svc_manicure",
+      "svc_pedicure",
+      "svc_brow_lamination",
+      "svc_lash_lift",
+      "svc_threading"
+    ],
+    "years_experience": 6,
+    "working_days": [
+      "sun",
+      "mon",
+      "wed",
+      "thu",
+      "fri",
+      "sat"
+    ],
+    "specialties": [
+      "nails",
+      "brows",
+      "lashes"
+    ],
+    "bio": "Ana is our nail, brow and lash expert, known for precise brow lamination and long-lasting gel manicures."
+  },
+  {
+    "id": "prc_nadia_rahman",
+    "name": "Dr. Nadia Rahman",
+    "role": "doctor",
+    "title": "Aesthetic Physician",
+    "branch_id": "br_marina",
+    "gender": "female",
+    "languages": [
+      "English",
+      "Arabic",
+      "Urdu"
+    ],
+    "service_ids": [
+      "svc_botox_forehead",
+      "svc_botox_3areas",
+      "svc_lip_filler",
+      "svc_cheek_filler",
+      "svc_profhilo",
+      "svc_laser_pigmentation",
+      "svc_skin_analysis"
+    ],
+    "years_experience": 7,
+    "working_days": [
+      "sun",
+      "mon",
+      "tue",
+      "wed",
+      "thu"
+    ],
+    "specialties": [
+      "injectables",
+      "skin boosters"
+    ],
+    "bio": "Dr. Nadia focuses on subtle anti-ageing results with Botox, fillers and Profhilo."
+  },
+  {
+    "id": "prc_grace_kim",
+    "name": "Grace Kim",
+    "role": "nurse",
+    "title": "Aesthetic Nurse",
+    "branch_id": "br_marina",
+    "gender": "female",
+    "languages": [
+      "English",
+      "Korean"
+    ],
+    "service_ids": [
+      "svc_chemical_peel",
+      "svc_microneedling",
+      "svc_laser_underarms",
+      "svc_laser_full_legs",
+      "svc_laser_full_body",
+      "svc_coolsculpting",
+      "svc_iv_drip"
+    ],
+    "years_experience": 6,
+    "working_days": [
+      "mon",
+      "tue",
+      "wed",
+      "thu",
+      "fri",
+      "sat"
+    ],
+    "specialties": [
+      "laser",
+      "IV therapy"
+    ],
+    "bio": "Grace specialises in laser hair removal and vitamin IV drips, with a gentle and reassuring approach."
+  },
+  {
+    "id": "prc_hannah_white",
+    "name": "Hannah White",
+    "role": "therapist",
+    "title": "Skin Therapist",
+    "branch_id": "br_marina",
+    "gender": "female",
+    "languages": [
+      "English"
+    ],
+    "service_ids": [
+      "svc_classic_facial",
+      "svc_hydrafacial",
+      "svc_acne_facial",
+      "svc_mens_facial",
+      "svc_body_massage",
+      "svc_cellulite"
+    ],
+    "years_experience": 4,
+    "working_days": [
+      "sun",
+      "tue",
+      "wed",
+      "thu",
+      "fri",
+      "sat"
+    ],
+    "specialties": [
+      "facials",
+      "cellulite"
+    ],
+    "bio": "Hannah performs facials and body treatments, and is popular for after-work HydraFacials."
+  },
+  {
+    "id": "prc_priya_nair",
+    "name": "Priya Nair",
+    "role": "therapist",
+    "title": "Beauty Therapist",
+    "branch_id": "br_marina",
+    "gender": "female",
+    "languages": [
+      "English",
+      "Hindi",
+      "Malayalam"
+    ],
+    "service_ids": [
+      "svc_manicure",
+      "svc_pedicure",
+      "svc_brow_lamination",
+      "svc_lash_lift",
+      "svc_threading"
+    ],
+    "years_experience": 7,
+    "working_days": [
+      "sun",
+      "mon",
+      "tue",
+      "thu",
+      "fri",
+      "sat"
+    ],
+    "specialties": [
+      "threading",
+      "nails"
+    ],
+    "bio": "Priya is our threading and nail specialist with 7 years of experience."
+  },
+  {
+    "id": "prc_khalid_ameri",
+    "name": "Dr. Khalid Al Ameri",
+    "role": "doctor",
+    "title": "Consultant Dermatologist",
+    "branch_id": "br_abudhabi",
+    "gender": "male",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "service_ids": [
+      "svc_botox_forehead",
+      "svc_botox_3areas",
+      "svc_lip_filler",
+      "svc_cheek_filler",
+      "svc_profhilo",
+      "svc_laser_pigmentation",
+      "svc_tattoo_removal",
+      "svc_prp_hair",
+      "svc_skin_analysis"
+    ],
+    "years_experience": 18,
+    "working_days": [
+      "sun",
+      "mon",
+      "tue",
+      "wed",
+      "thu"
+    ],
+    "specialties": [
+      "dermatology",
+      "hair loss",
+      "laser"
+    ],
+    "bio": "Dr. Khalid is our most experienced dermatologist, leading our hair loss and medical laser programmes in Abu Dhabi."
+  },
+  {
+    "id": "prc_fatima_zahra",
+    "name": "Dr. Fatima Zahra",
+    "role": "doctor",
+    "title": "Aesthetic Physician",
+    "branch_id": "br_abudhabi",
+    "gender": "female",
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "service_ids": [
+      "svc_botox_forehead",
+      "svc_botox_3areas",
+      "svc_lip_filler",
+      "svc_cheek_filler",
+      "svc_profhilo",
+      "svc_skin_analysis"
+    ],
+    "years_experience": 6,
+    "working_days": [
+      "mon",
+      "tue",
+      "wed",
+      "thu",
+      "sat"
+    ],
+    "specialties": [
+      "lip filler",
+      "Botox"
+    ],
+    "bio": "Dr. Fatima offers anti-wrinkle and filler treatments, with a focus on natural lip enhancement."
+  },
+  {
+    "id": "prc_rachel_osei",
+    "name": "Rachel Osei",
+    "role": "nurse",
+    "title": "Aesthetic Nurse",
+    "branch_id": "br_abudhabi",
+    "gender": "female",
+    "languages": [
+      "English"
+    ],
+    "service_ids": [
+      "svc_chemical_peel",
+      "svc_microneedling",
+      "svc_laser_underarms",
+      "svc_laser_full_legs",
+      "svc_laser_full_body",
+      "svc_coolsculpting",
+      "svc_iv_drip"
+    ],
+    "years_experience": 8,
+    "working_days": [
+      "sun",
+      "mon",
+      "tue",
+      "wed",
+      "thu"
+    ],
+    "specialties": [
+      "laser",
+      "peels",
+      "CoolSculpting"
+    ],
+    "bio": "Rachel performs laser hair removal, chemical peels, microneedling and CoolSculpting."
+  },
+  {
+    "id": "prc_mariam_saeed",
+    "name": "Mariam Saeed",
+    "role": "therapist",
+    "title": "Skin & Beauty Therapist",
+    "branch_id": "br_abudhabi",
+    "gender": "female",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "service_ids": [
+      "svc_classic_facial",
+      "svc_hydrafacial",
+      "svc_acne_facial",
+      "svc_mens_facial",
+      "svc_body_massage",
+      "svc_cellulite",
+      "svc_manicure",
+      "svc_pedicure",
+      "svc_brow_lamination",
+      "svc_lash_lift",
+      "svc_threading"
+    ],
+    "years_experience": 5,
+    "working_days": [
+      "sun",
+      "mon",
+      "tue",
+      "wed",
+      "thu",
+      "sat"
+    ],
+    "specialties": [
+      "facials",
+      "brows"
+    ],
+    "bio": "Mariam offers facials, body treatments and beauty services, and is known for her brow work."
+  },
+  {
+    "id": "prc_huda_nasser",
+    "name": "Dr. Huda Nasser",
+    "role": "doctor",
+    "title": "Aesthetic Physician",
+    "branch_id": "br_sharjah",
+    "gender": "female",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "service_ids": [
+      "svc_botox_forehead",
+      "svc_botox_3areas",
+      "svc_lip_filler",
+      "svc_cheek_filler",
+      "svc_profhilo",
+      "svc_laser_pigmentation",
+      "svc_prp_hair",
+      "svc_skin_analysis"
+    ],
+    "years_experience": 10,
+    "working_days": [
+      "sun",
+      "mon",
+      "tue",
+      "wed",
+      "thu",
+      "sat"
+    ],
+    "specialties": [
+      "injectables",
+      "hair loss"
+    ],
+    "bio": "Dr. Huda leads our ladies-only clinic, offering injectables and PRP hair treatments in a private setting."
+  },
+  {
+    "id": "prc_reem_obaid",
+    "name": "Reem Obaid",
+    "role": "nurse",
+    "title": "Aesthetic Nurse",
+    "branch_id": "br_sharjah",
+    "gender": "female",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "service_ids": [
+      "svc_chemical_peel",
+      "svc_microneedling",
+      "svc_laser_underarms",
+      "svc_laser_full_legs",
+      "svc_laser_full_body"
+    ],
+    "years_experience": 7,
+    "working_days": [
+      "sun",
+      "mon",
+      "tue",
+      "wed",
+      "thu",
+      "sat"
+    ],
+    "specialties": [
+      "laser",
+      "peels"
+    ],
+    "bio": "Reem performs laser hair removal, peels and microneedling for our ladies-only clients."
+  },
+  {
+    "id": "prc_aisha_kareem",
+    "name": "Aisha Kareem",
+    "role": "therapist",
+    "title": "Skin & Beauty Therapist",
+    "branch_id": "br_sharjah",
+    "gender": "female",
+    "languages": [
+      "Arabic",
+      "English",
+      "Urdu"
+    ],
+    "service_ids": [
+      "svc_classic_facial",
+      "svc_hydrafacial",
+      "svc_acne_facial",
+      "svc_body_massage",
+      "svc_cellulite",
+      "svc_manicure",
+      "svc_pedicure",
+      "svc_brow_lamination",
+      "svc_lash_lift",
+      "svc_threading"
+    ],
+    "years_experience": 9,
+    "working_days": [
+      "sun",
+      "mon",
+      "tue",
+      "wed",
+      "thu",
+      "sat"
+    ],
+    "specialties": [
+      "facials",
+      "nails",
+      "lashes"
+    ],
+    "bio": "Aisha offers the full range of facials, body and beauty treatments at our Sharjah clinic."
+  },
+  {
+    "id": "prc_youssef_amin",
+    "name": "Dr. Youssef Amin",
+    "role": "doctor",
+    "title": "Visiting Aesthetic Physician",
+    "branch_id": "br_rak",
+    "gender": "male",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "service_ids": [
+      "svc_botox_forehead",
+      "svc_botox_3areas",
+      "svc_lip_filler",
+      "svc_skin_analysis"
+    ],
+    "years_experience": 12,
+    "working_days": [
+      "tue",
+      "thu"
+    ],
+    "specialties": [
+      "injectables"
+    ],
+    "bio": "Dr. Youssef visits our Al Hamra clinic every Tuesday and Thursday for consultations and injectable treatments."
+  },
+  {
+    "id": "prc_lina_farah",
+    "name": "Lina Farah",
+    "role": "nurse",
+    "title": "Aesthetic Nurse",
+    "branch_id": "br_rak",
+    "gender": "female",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "service_ids": [
+      "svc_chemical_peel"
+    ],
+    "years_experience": 5,
+    "working_days": [
+      "sun",
+      "mon",
+      "tue",
+      "wed",
+      "thu",
+      "sat"
+    ],
+    "specialties": [
+      "peels"
+    ],
+    "bio": "Lina performs chemical peels and assists with medical treatments at our Al Hamra clinic."
+  },
+  {
+    "id": "prc_sofia_rossi",
+    "name": "Sofia Rossi",
+    "role": "therapist",
+    "title": "Skin & Beauty Therapist",
+    "branch_id": "br_rak",
+    "gender": "female",
+    "languages": [
+      "English",
+      "Italian"
+    ],
+    "service_ids": [
+      "svc_classic_facial",
+      "svc_hydrafacial",
+      "svc_acne_facial",
+      "svc_mens_facial",
+      "svc_body_massage",
+      "svc_manicure",
+      "svc_pedicure",
+      "svc_brow_lamination",
+      "svc_lash_lift",
+      "svc_threading"
+    ],
+    "years_experience": 6,
+    "working_days": [
+      "sun",
+      "mon",
+      "tue",
+      "wed",
+      "thu",
+      "sat"
+    ],
+    "specialties": [
+      "facials",
+      "nails"
+    ],
+    "bio": "Sofia offers facials, massage and beauty services, including our Men's Grooming Facial."
+  }
+]
